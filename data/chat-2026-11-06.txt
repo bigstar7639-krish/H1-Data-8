@@ -1,2 +1,2 @@
-Coding Q 106 - Python la loop eppadi?
-Aira: Python loop: `for i in range(5): print(i)` - Easy!
+Story 107
+Oru city la oru farmer irunthan! Daily travel pannan pannan! Oru naal dream kedaichuchu! Life maariduchu! Neeyum jeyippa!
