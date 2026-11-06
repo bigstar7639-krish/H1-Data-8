@@ -1,2 +1,2 @@
-Emotion Q 105 - angry ah irundha enna pannanum?
-Aira: Kovam ah? Deep breath edu - 1-2-3! 😤
+Coding Q 106 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)` - Easy!
