@@ -765,3 +765,6 @@ A: Clint Eastwood - Entertainment: Film
 Knowledge Quiz
 Q: Who is the colossal titan in "Attack On Titan"?
 A: Bertolt Hoover - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: Who is the father of Icarus, who flew too close to the sun?
+A: Daedalus - Mythology
