@@ -784,3 +784,6 @@ A: Cow - Entertainment: Video Games
 Knowledge Quiz
 Q: What was the first company to use the term "Golden Master"?
 A: Apple - Science: Computers
+Knowledge Quiz
+Q: How many playable characters were there in Street Fighter II: Champion Edition?
+A: 12 - Entertainment: Video Games
