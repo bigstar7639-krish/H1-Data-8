@@ -826,3 +826,4 @@ Aira: Bored ah? Joke sollattuma?
 Smart Q 2980 - Teacher la eppadi jeyikkarathu?
 Coding Q 2981 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Kavithai 2982 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
