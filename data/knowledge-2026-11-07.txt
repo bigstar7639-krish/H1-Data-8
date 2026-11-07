@@ -755,3 +755,4 @@ A: Unreal Tournament 2004 - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is the lead singer of Bastille?
 A: Dan Smith - Entertainment: Music
+Knowledge 3027 - Python - Python loop: `for i in range(5): print(i)`
