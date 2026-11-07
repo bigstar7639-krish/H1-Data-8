@@ -1146,3 +1146,6 @@ A: Toad - Entertainment: Video Games
 Knowledge Quiz
 Q: Where is the area commonly known as the Bermuda Triangle?
 A: North Atlantic Ocean, between Florida and Puerto Rico - Geography
+Knowledge Quiz
+Q: Which major bank's collapse was notable as one of the causes of the Financal Crisis of 2008?
+A: Lehman Brothers - Politics
