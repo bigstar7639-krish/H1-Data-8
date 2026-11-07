@@ -28,3 +28,4 @@ Game 3161 - Coin Toss - Ne Toss nu Sollu!
 Game 3171 - Dice - Ne Dice nu Sollu!
 Game 3195 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 3212 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Game 3214 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
