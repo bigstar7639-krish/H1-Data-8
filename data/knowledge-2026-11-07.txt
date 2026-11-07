@@ -1005,3 +1005,6 @@ A: Smash Mouth - Entertainment: Film
 Knowledge Quiz
 Q: When was Pong released?
 A: November 29, 1972 - General Knowledge
+Knowledge Quiz
+Q: What is the capital of India?
+A: New Delhi - Geography
