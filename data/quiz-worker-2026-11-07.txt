@@ -178,3 +178,6 @@ A: Foxes
 Auto Quiz - Meditation 🧠
 Q: On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?
 A: Pencilvester
+Auto Quiz - Fitness 🧠
+Q: What CS:GO case contains the Butterfly Knife?
+A: Breakout Case
