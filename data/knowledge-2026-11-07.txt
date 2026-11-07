@@ -796,3 +796,6 @@ A: Uncle Eli - Entertainment: Video Games
 Knowledge Quiz
 Q: According to the United States Constitution, how old must a person be to be elected President of the United States?
 A: 35 - Politics
+Knowledge Quiz
+Q: In World of Warcraft lore,  how many siblings does Sylvanas Windrunner have?
+A: 3 - Entertainment: Video Games
