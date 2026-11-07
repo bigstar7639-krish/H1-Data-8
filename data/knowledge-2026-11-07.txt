@@ -768,3 +768,6 @@ A: Bertolt Hoover - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Who is the father of Icarus, who flew too close to the sun?
 A: Daedalus - Mythology
+Knowledge Quiz
+Q: What does the Latin phrase "Veni, vidi, vici" translate into English?
+A: I came, I saw, I conquered - General Knowledge
