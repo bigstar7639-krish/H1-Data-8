@@ -37,3 +37,4 @@ tel - prajasakti-newspaper-all-editions-09-07-2024 - Prajasakti Telugu Newspaper
 kan - in.gazette.karnataka_eo.2022-03-14.2012021 - Karnataka ExtraOrdinary Gazette, 2022-03-14, Extra Ordinary, Part III
 kan - in.gazette.karnataka_eo.2020-08-06.174 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
 kan - in.gazette.karnataka_eo.2020-06-24.UDD05MLR2018 - Karnataka ExtraOrdinary Gazette, 2020-06-24, Extra Ordinary, Part III
+kor - 20200301_20200301_0240 - 오늘의 아나키즘
