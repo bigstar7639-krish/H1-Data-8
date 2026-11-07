@@ -172,3 +172,6 @@ A: Rhode Island
 Auto Quiz - Money 🧠
 Q: What is the name the location-based augmented reality game developed by Niantic before Pok&eacute;mon GO?
 A: Ingress
+Auto Quiz - Yoga 🧠
+Q: Which animal was part of an Russian domestication experiment in 1959?
+A: Foxes
