@@ -82,3 +82,6 @@ A: Pancreas
 Auto Quiz - Heart 🧠
 Q: Which of the following Pokemon Types was present in the original games, Red and Blue?
 A: Ice
+Auto Quiz - Future 🧠
+Q: In the Beatrix Potter books, what type of animal is Tommy Brock?
+A: Badger
