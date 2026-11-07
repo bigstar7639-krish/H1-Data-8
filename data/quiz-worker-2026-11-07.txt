@@ -163,3 +163,6 @@ A: Wizard and Glass
 Auto Quiz - Teacher 🧠
 Q: Which slogan did the fast food company, McDonald&#039;s, use before their &quot;I&#039;m Lovin&#039; It&quot; slogan?
 A: We Love to See You Smile
+Auto Quiz - Student 🧠
+Q: Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?
+A: Pelle
