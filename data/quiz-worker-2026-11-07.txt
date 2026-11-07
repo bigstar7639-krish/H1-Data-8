@@ -142,3 +142,6 @@ A: Utah Teapot
 Auto Quiz - Sky 🧠
 Q: In the game Pok&eacute;mon Conquest, how many kingdoms make up the region of Ransei?
 A: 17
+Auto Quiz - Star 🧠
+Q: What was the wifi password given to Stephen Strange in Doctor Strange?
+A: Shambala
