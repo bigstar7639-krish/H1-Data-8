@@ -969,3 +969,6 @@ A: Citizen Kane - Entertainment: Film
 Knowledge Quiz
 Q: What is the make and model of the tour vehicles in "Jurassic Park" (1993)?
 A: 1992 Ford Explorer XLT - Entertainment: Film
+Knowledge Quiz
+Q: According to the United States Constitution, how old must a person be to be elected President of the United States?
+A: 35 - Politics
