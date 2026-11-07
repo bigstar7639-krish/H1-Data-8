@@ -641,3 +641,6 @@ A: Sburb - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: Which of the following is not a character in the Street Fighter series?
 A: Mai Shiranui - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the capital of Scotland?
+A: Edinburgh - Geography
