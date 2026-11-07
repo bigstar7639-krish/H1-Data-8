@@ -1178,3 +1178,6 @@ A: 1997 - Entertainment: Film
 Knowledge Quiz
 Q: What French sculptor designed the Statue of Liberty? 
 A: Frédéric Auguste Bartholdi - Art
+Knowledge Quiz
+Q: What is centralism?
+A:  Concentration of power and authority in a central organization. - Politics
