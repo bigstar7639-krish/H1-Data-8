@@ -3,3 +3,4 @@ Aira: Website - HTML + CSS + JS!
 Movie 2809 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Movie 2810 - Jailer - Rajini - Mass! 🎬
 Game 2811 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
+Thirukkural 2812 - Porumai - Periya Sakthi! - Thirukkural
