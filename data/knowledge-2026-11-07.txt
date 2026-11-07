@@ -775,3 +775,6 @@ Knowledge 3045 - DNA - DNA pathi sollu - Nalla question! Daily try pannu - Jeyic
 Knowledge Quiz
 Q: In what year did Clint Eastwood star as Inspector Harry Callahan in the film "Dirty Harry"?
 A: 1971 - Entertainment: Film
+Knowledge Quiz
+Q: Who was the first American Vampire (Scott Snyder's American Vampire)?
+A: Skinner Sweet - Entertainment: Comics
