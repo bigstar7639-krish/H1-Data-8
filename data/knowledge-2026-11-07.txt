@@ -850,3 +850,6 @@ A: Ford - Vehicles
 Knowledge Quiz
 Q: With his distinctive red hair, which Italian composer, born in 1678, was known as the 'Red Priest'?
 A: Vivaldi - Entertainment: Music
+Knowledge Quiz
+Q: Which is the longest bone in the human body? 
+A: Femur - Science & Nature
