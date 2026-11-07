@@ -121,3 +121,6 @@ A: Cheetah
 Auto Quiz - Music 🧠
 Q: Albrecht D&uuml;rer&#039;s birthplace and place of death were in...
 A: N&uuml;rnberg
+Auto Quiz - Movie 🧠
+Q: The word &quot;abulia&quot; means which of the following?
+A: The inability to make decisions
