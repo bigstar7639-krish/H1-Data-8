@@ -790,3 +790,6 @@ A: 12 - Entertainment: Video Games
 Knowledge Quiz
 Q: In Jeff Wayne's Musical Version of War of the Worlds, the chances of anything coming from Mars are...
 A: A million to one - Entertainment: Musicals & Theatres
+Knowledge Quiz
+Q: Which Crypt of the NecroDancer (2015) character has a soundtrack by Jake "Virt" Kaufman?
+A: Uncle Eli - Entertainment: Video Games
