@@ -653,3 +653,6 @@ A: FOXDIE - Entertainment: Video Games
 Knowledge Quiz
 Q: Which NBA player has the most games played over the course of their career?
 A: Robert Parish - Sports
+Knowledge Quiz
+Q: What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?
+A: Bull - Mythology
