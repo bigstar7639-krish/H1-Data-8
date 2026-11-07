@@ -721,3 +721,6 @@ A: Andariel - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these is the name of an American psychedelic rock band formed in 2002 by Benjamin Goldwasser and Andrew VanWyngarden?
 A: MGMT - Entertainment: Music
+Knowledge Quiz
+Q: What is the capital of Jamaica?
+A: Kingston - Geography
