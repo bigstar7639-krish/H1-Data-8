@@ -1078,3 +1078,6 @@ A: groups of holes - General Knowledge
 Knowledge Quiz
 Q: Who assassinated Archduke Franz Ferdinand?
 A: Gavrilo Princip - History
+Knowledge Quiz
+Q: The land of Gotland is located in which European country?
+A: Sweden - Geography
