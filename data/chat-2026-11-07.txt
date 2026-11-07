@@ -1409,3 +1409,5 @@ Q 3312 - Shakespeare pathi oru secret sollatta?
 Talk 3313 - Cricket pathi pesalama? Sollu!
 Joke 3314
 Why bike sad? Petrol illa!
+Story 3315
+Oru tokyo la oru doctor irunthan! Daily travel pannan pannan! Oru naal power kedaichuchu! Life maariduchu!
