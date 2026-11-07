@@ -88,3 +88,6 @@ A: Badger
 Auto Quiz - Freedom 🧠
 Q: How many sides does a pentagon have?
 A: 5
+Auto Quiz - Hope 🧠
+Q: What is the most common type of pitch thrown by pitchers in baseball?
+A: Fastball
