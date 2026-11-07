@@ -143,3 +143,4 @@ Fashion - UrbanPlaceConsultingSignedContract1172017 - 2017 Fashion District BID 
 Game - game_launcher - game_launcher
 Game - Game17XXXLite_20170515 - Game 17 XXX Lite
 Sport - succeedinsport0000jack - Succeed In Sport
+Sport - supersport3.0 - Super Sport 3.0
