@@ -422,3 +422,5 @@ Talk 3041 - Science pathi pesalama? Sollu! 💬
 Kavithai 3042 - Un Sirippu - En Vazhkai! - Aira
 Emotion Q 3043 - happy?
 Aira: Super! Happy ah irukka! 😊
+Emotion Q 3044 - bored?
+Aira: Bored ah? Joke sollattuma? 😂
