@@ -239,3 +239,4 @@ Osaka - gov.uscourts.laed.159827 - Osaka 21, LLC v. Zurich Insurance Company
 Japanese Temple - 17_20260612 - Seigen-ji Temple Mokujiki Buddha Statues — Regional Japanese Preservation Article (2007)
 Japanese Temple - japanesetemplebu0000cove - Japanese temple Buddhism : worldliness in a religion of renunciation
 Japanese Girl - konnichiwaiamjap0000brow - Konnichiwa! : I am a Japanese-American girl
+Japanese Girl - konnichiwaiamjap0000brow_e4d5 - Konnichiwa! : I am a Japanese-American girl
