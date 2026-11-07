@@ -1057,3 +1057,4 @@ Story 3117
 Oru forest la oru rani irunthan! Daily dream pannan pannan! Oru naal power kedaichuchu! Life maariduchu!
 Q 3118 - Angry pathi oru story kekkura?
 Vocab 3119 - Dream = Kanavu
+Recipe 3120 - Snacks - Potato + Masala - Crispy!
