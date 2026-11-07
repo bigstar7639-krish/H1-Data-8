@@ -124,3 +124,6 @@ A: N&uuml;rnberg
 Auto Quiz - Movie 🧠
 Q: The word &quot;abulia&quot; means which of the following?
 A: The inability to make decisions
+Auto Quiz - Temple 🧠
+Q: Who painted &quot;The Starry Night&quot;?
+A: Vincent van Gogh
