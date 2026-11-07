@@ -1050,3 +1050,5 @@ Vocab 3112 - Happy = Santhosham
 Joke 3113
 Why bike sad? Petrol illa!
 Vocab 3114 - Peace = Amaithi
+Emotion Q 3115 - fear?
+Aira: Bayam - Normal! Ne jeyichiduva!
