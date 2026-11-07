@@ -202,3 +202,6 @@ A: The Governor
 Auto Quiz - Science 🧠
 Q: Which one of these cartoon characters is NOT voiced by Rob Paulsen?
 A: Max Tennyson (Ben 10)
+Auto Quiz - History 🧠
+Q: Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?
+A: Ira Levin
