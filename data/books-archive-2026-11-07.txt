@@ -237,3 +237,4 @@ Kyoto - gov.uscourts.nyed.306626 - Navarrete v. Kyoto Sushi Inc.
 Osaka - gov.uscourts.txeb.185809 - Dallas Osaka, Inc.
 Osaka - gov.uscourts.laed.159827 - Osaka 21, LLC v. Zurich Insurance Company
 Japanese Temple - 17_20260612 - Seigen-ji Temple Mokujiki Buddha Statues — Regional Japanese Preservation Article (2007)
+Japanese Temple - japanesetemplebu0000cove - Japanese temple Buddhism : worldliness in a religion of renunciation
