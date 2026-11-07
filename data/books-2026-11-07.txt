@@ -19,3 +19,4 @@ kan - in.gazette.karnataka_eo.2020-06-24.UDD05MLR2018 - Karnataka ExtraOrdinary 
 kor - chosun-ilbo-1930.03.13e - 朝鮮日報 1930.03.13e
 eng - the-daily-life-of-a-stalker - The Daily Life Of A Stalker
 kan - in.gazette.karnataka_d.2022-04-20.3995 - Karnataka Daily Gazette, 2022-04-20, Daily
+kan - in.gazette.karnataka_eo.2020-11-07.DPAR73GAM20194 - Karnataka ExtraOrdinary Gazette, 2020-11-07, Extra Ordinary, Part IVA
