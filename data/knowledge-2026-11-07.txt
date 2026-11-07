@@ -941,3 +941,6 @@ A: Pup - Animals
 Knowledge Quiz
 Q: What level do you have to be to get a service medal on CS:GO?
 A: 40 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which company developed the free battle royale game Fortnite?
+A: Epic Games - Entertainment: Video Games
