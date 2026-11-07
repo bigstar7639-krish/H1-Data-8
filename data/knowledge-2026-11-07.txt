@@ -592,3 +592,6 @@ A: Shellshock - Science: Computers
 Knowledge Quiz
 Q: Who was the first wife of King Henry VIII?
 A: Catherine of Aragon - History
+Knowledge Quiz
+Q: Who created the indie adventure game "Night in the Woods"?
+A: Alec Holowka - Entertainment: Video Games
