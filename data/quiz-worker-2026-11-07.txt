@@ -205,3 +205,6 @@ A: Max Tennyson (Ben 10)
 Auto Quiz - History 🧠
 Q: Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?
 A: Ira Levin
+Auto Quiz - Culture 🧠
+Q: What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?
+A: Saphira
