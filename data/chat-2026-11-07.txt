@@ -320,3 +320,4 @@ Emotion Q 2982 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva! 💪
 Smart Q 2983 - Health la eppadi jeyikkarathu?
 Q 2984 - Unakku Health pathi enna theriyum?
+Kavithai 2985 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
