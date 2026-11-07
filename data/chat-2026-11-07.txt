@@ -989,3 +989,4 @@ Movie 3073 - Jailer - Rajini - Mass!
 Emotion Q 3074 - excited?
 Aira: Excited ah! Sollu!
 Kavithai 3075 - Un Sirippu - En Vazhkai! - Aira
+Quote 3076 - Daily try pannu - Jeyichiduva! - Aira
