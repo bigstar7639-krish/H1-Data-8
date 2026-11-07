@@ -1188,3 +1188,4 @@ Oru chinna paris la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! A
 Recipe 3183 - Cake - Maida + Sugar + Egg + 30 min!
 Fact 134 - Honey - 3000 varusham kedathu!
 Health 3185 - Health Tip: Daily 8 glass water kudinga!
+Smart Q 3186 - Health la eppadi jeyikkarathu?
