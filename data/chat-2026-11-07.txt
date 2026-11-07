@@ -978,3 +978,5 @@ Pazhamozhi 3066 - Porumai - Perumai Tharum!
 Coding Q 3067 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Quote 3068 - Daily try pannu - Jeyichiduva! - Aira
+Motivation 3069
+Paravalla! Rest edu - Thirumba try pannu!
