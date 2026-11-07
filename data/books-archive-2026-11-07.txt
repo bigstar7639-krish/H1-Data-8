@@ -233,3 +233,4 @@ Japanese Food - gov.uscourts.nyed.368296 - Chen v. Osaka Japanese Food Service, 
 Sushi - isbn_9781405483162 - Sushi a Classic Collection of Japanese S
 Sushi - totemogenkeinesu0000anha - Tote mögen keine Sushi Roman
 Kyoto - 5628942-GCC-Oil-Prices-an-Omen-for-Life-Under-Kyoto - 2000 GCC “Oil Prices an Omen for Life under Kyoto Protocol”
+Kyoto - gov.uscourts.nyed.306626 - Navarrete v. Kyoto Sushi Inc.
