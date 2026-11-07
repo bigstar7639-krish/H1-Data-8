@@ -787,3 +787,6 @@ A: Apple - Science: Computers
 Knowledge Quiz
 Q: How many playable characters were there in Street Fighter II: Champion Edition?
 A: 12 - Entertainment: Video Games
+Knowledge Quiz
+Q: In Jeff Wayne's Musical Version of War of the Worlds, the chances of anything coming from Mars are...
+A: A million to one - Entertainment: Musicals & Theatres
