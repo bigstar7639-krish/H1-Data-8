@@ -1081,3 +1081,6 @@ A: Gavrilo Princip - History
 Knowledge Quiz
 Q: The land of Gotland is located in which European country?
 A: Sweden - Geography
+Knowledge Quiz
+Q: What is the official language of Bhutan?
+A: Dzongkha - Geography
