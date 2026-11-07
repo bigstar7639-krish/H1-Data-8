@@ -851,3 +851,5 @@ World Story 2998
 Oru city la oru hero irunthan! Daily help pannan pannan! Oru naal love kedaichuchu! Life maariduchu!
 Emotion Q 2999 - lonely?
 Aira: Lonely ah? Aira irukka la!
+Coding Q 3000 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
