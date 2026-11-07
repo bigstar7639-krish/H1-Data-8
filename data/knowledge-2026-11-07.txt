@@ -492,3 +492,6 @@ Knowledge 2843 - Human Body - Human Body pathi sollu - Nalla question! Daily try
 Knowledge Quiz
 Q: What is the fourth book of the Old Testament?
 A: Numbers - Entertainment: Books
+Knowledge Quiz
+Q: What is the standard SI unit for temperature?
+A: Kelvin - Science & Nature
