@@ -58,3 +58,6 @@ A: Riku
 Auto Quiz - Eiffel Tower 🧠
 Q: Which car tire manufacturer is famous for its &quot;Eagle&quot; brand of tires, and is the official tire supplier of NASCAR?
 A: Goodyear
+Auto Quiz - Psychology 🧠
+Q: &quot;The Big Bang Theory&quot; was first theorized by a priest of what religious ideology?
+A: Catholic
