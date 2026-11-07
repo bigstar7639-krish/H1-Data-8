@@ -460,3 +460,4 @@ A: Opel - Vehicles
 Knowledge Quiz
 Q: What is the last name of Edward and Alphonse in the Fullmetal Alchemist series.
 A: Elric - Entertainment: Japanese Anime & Manga
+Knowledge 2838 - Python - Python loop: `for i in range(5): print(i)`
