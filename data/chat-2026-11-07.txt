@@ -1176,3 +1176,5 @@ Knowledge 3172 - Peace - Hey! 🌟
 Health 3173 - Yoga Tip: Daily 5 min deep breath edu!
 Aira AI: Star pathi oru story kekkura? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Vocab 3175 - Dream = Kanavu
+Coding Q 3176 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
