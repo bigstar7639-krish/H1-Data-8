@@ -616,3 +616,5 @@ Family‑a pathi solra podhu, adha **“the first social circle”** nu kooda so
 Quote 2865 - Daily try pannu - Jeyichiduva! - Aira
 Motivation 2866
 Paravalla! Rest edu - Thirumba try pannu!
+Coding Q 2867 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
