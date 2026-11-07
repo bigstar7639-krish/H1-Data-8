@@ -877,3 +877,4 @@ Smart Q 3007 - Brain la eppadi jeyikkarathu?
 Smart Q 3008 - Temple la eppadi jeyikkarathu?
 Q 3009 - Tamil Culture pathi oru story kekkura?
 Health 3010 - Yoga Tip: Daily 5 min deep breath edu!
+Knowledge 3011 - Maths - Maths pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
