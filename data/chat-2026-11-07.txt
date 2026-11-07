@@ -1315,3 +1315,5 @@ Game 3259 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Pazhamozhi 3260 - Sontha Kaal la Ninnu - Jeyippa!
 Thirukkural 3261 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Thirukkural 3262 - Kattrathu - Kai Mann Alavu! - Thirukkural
+Coding Q 3263 - React la component enna?
+Aira: React component - Chinna piece!
