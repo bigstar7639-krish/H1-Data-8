@@ -413,3 +413,6 @@ A: Rudyard Kipling - Entertainment: Books
 Knowledge Quiz
 Q: Which "Call Of Duty: Zombies" map introduced the "Staffs Of The Ancients"?
 A: Origins - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the first Super Mario game ever released in North America for the 3DS?
+A: Super Mario 3D Land - Entertainment: Video Games
