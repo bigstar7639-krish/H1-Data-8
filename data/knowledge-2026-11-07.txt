@@ -1057,3 +1057,6 @@ A: Katarina - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the real full name of Captain America?
 A: Steven Grant Rogers  - Entertainment: Comics
+Knowledge Quiz
+Q: In "Magic: The Gathering", during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?
+A: Purple - Entertainment: Board Games
