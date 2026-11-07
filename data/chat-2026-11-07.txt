@@ -1323,3 +1323,5 @@ Smart Q 3265 - Success la eppadi jeyikkarathu?
 Motivation 3266
 Paravalla! Rest edu - Thirumba try pannu!
 Thirukkural 3267 - Kattrathu - Kai Mann Alavu! - Thirukkural
+Coding Q 3268 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!
