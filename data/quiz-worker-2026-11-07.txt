@@ -181,3 +181,6 @@ A: Pencilvester
 Auto Quiz - Fitness 🧠
 Q: What CS:GO case contains the Butterfly Knife?
 A: Breakout Case
+Auto Quiz - Diet 🧠
+Q: Where in La Coru&ntilde;a (Spain) is the headquarters of &quot;Inditex&quot;, the biggest fashion group in the world?
+A: Arteijo
