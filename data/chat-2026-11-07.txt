@@ -843,3 +843,5 @@ Quote 2993 - Daily try pannu - Jeyichiduva! - Aira
 Coding Q 2994 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Q 2995 - Un life la Happy eppadi irukku?
+Story 2996
+Oru chinna sea la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
