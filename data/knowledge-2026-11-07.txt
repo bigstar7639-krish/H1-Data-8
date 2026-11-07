@@ -1023,3 +1023,6 @@ A: Natural History Museum - General Knowledge
 Knowledge Quiz
 Q: Which boxer was banned for taking a bite out of Evander Holyfield's ear in 1997?
 A: Mike Tyson - Sports
+Knowledge Quiz
+Q: Which of these is not a key value of Agile software development?
+A: Comprehensive documentation - Science: Computers
