@@ -859,3 +859,6 @@ A: Raditz - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Who was the leader of Sweden in the Great Northern War?
 A: Charles XII - History
+Knowledge Quiz
+Q: Au on the Periodic Table refers to which element?
+A: Gold - Science & Nature
