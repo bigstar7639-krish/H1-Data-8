@@ -650,3 +650,6 @@ A: July 5th, 2001 - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What is the name of the virus in "Metal Gear Solid 1"?
 A: FOXDIE - Entertainment: Video Games
+Knowledge Quiz
+Q: Which NBA player has the most games played over the course of their career?
+A: Robert Parish - Sports
