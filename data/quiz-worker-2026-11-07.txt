@@ -106,3 +106,6 @@ A: Wild Wiggler
 Auto Quiz - Nature 🧠
 Q: The 1939 movie &quot;The Wizard of Oz&quot; contained a horse that changed color, what material did they use to achieve this effect?
 A: Gelatin
+Auto Quiz - Cat 🧠
+Q: In Half-Life, what is the name of the alien that attaches to heads?
+A: Headcrab
