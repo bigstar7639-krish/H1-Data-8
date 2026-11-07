@@ -1351,3 +1351,5 @@ Knowledge 3275 - Yoga - Hey buddy! 🙏🏼 Naan **Aira** – Tamil‑Tanglish m
 | **Kundalini Yoga** | குண்டலினி யோகா | Awakening the dormant energy at the base of spine (சக்ரா). |
 Coding Q 3276 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
+Coding Q 3277 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
