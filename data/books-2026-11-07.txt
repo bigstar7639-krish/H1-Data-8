@@ -12,3 +12,4 @@ chi - shibao-1919.07.18 - 時報 1919.07.18
 ara - write.ass - ‎⁨الرد على جهالات المتعصب لأوروبا في أصول التاريخ ومنهجه.⁩
 spa - S.O.No.8 - S. O. No. 8
 kor - chosun-ilbo-1930.03.13e - 朝鮮日報 1930.03.13e
+hin - in.gov.bih.gazette.2013-05-22.395 - Bihar Gazette, 2013-05-22, Extra Ordinary
