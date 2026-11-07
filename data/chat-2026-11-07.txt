@@ -1378,3 +1378,4 @@ World Story 3295
 Oru chinna madurai la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Recipe 3296 - Cake - Maida + Sugar + Egg + 30 min!
 Pazhamozhi 3297 - Porumai - Perumai Tharum!
+Fact 141 - Octopus ku 3 heart!
