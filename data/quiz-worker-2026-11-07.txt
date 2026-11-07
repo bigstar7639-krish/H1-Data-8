@@ -133,3 +133,6 @@ A: India Pale Ale
 Auto Quiz - Sea 🧠
 Q: Who assassinated Archduke Franz Ferdinand?
 A: Gavrilo Princip
+Auto Quiz - Mountain 🧠
+Q: What was Bitcoin&#039;s block size limit in 2010?
+A: 1 MB
