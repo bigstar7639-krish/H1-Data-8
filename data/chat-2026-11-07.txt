@@ -503,3 +503,22 @@ Vocab 2818 - Peace = Amaithi
 Story 2819
 Oru chinna chennai la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Smart Q 2820 - Robot la eppadi jeyikkarathu?
+Knowledge 2821 - Maths - Hey friend! 🙌 Naan *Aira* – Tamil‑Tanglish mix‑la math‑pathi solren. Let’s dive into the wonderful world of **Mathematics**! 🚀  
+
+---
+
+## 1️⃣ Maths eppadi irukku?  
+Mathematics‑a “the language of the universe” nu solla mudiyum. Numbers, shapes, patterns, and logical reasoning ellam ithula irukku. In simple words:
+
+- **Numbers** → Counting, addition, subtraction, multiplication, division.  
+- **Algebra** → Variables (x, y) use panni equations solve pannuvom.  
+- **Geometry** → Shapes (triangles, circles) and their properties.  
+- **Calculus** → Change‑a study pannuvom – derivatives & integrals.  
+- **Statistics & Probability** → Data analyze panni future predictions seyyalam.
+
+---
+
+## 2️⃣ Why maths matters?  
+| Reason | Example (Tamil‑Tanglish) |
+|--------|---------------------------|
+| **P
