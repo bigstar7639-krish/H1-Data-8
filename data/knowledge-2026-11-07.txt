@@ -495,3 +495,6 @@ A: Numbers - Entertainment: Books
 Knowledge Quiz
 Q: What is the standard SI unit for temperature?
 A: Kelvin - Science & Nature
+Knowledge Quiz
+Q: Which Super Mario video game when they introduce Bowser Jr. for the first time?
+A: Super Mario Sunshine - Entertainment: Video Games
