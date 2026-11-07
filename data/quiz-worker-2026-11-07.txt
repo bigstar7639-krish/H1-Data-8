@@ -109,3 +109,6 @@ A: Gelatin
 Auto Quiz - Cat 🧠
 Q: In Half-Life, what is the name of the alien that attaches to heads?
 A: Headcrab
+Auto Quiz - Food 🧠
+Q: Which game was exclusive to Dreamcast?
+A: Pen Pen TriIcelon
