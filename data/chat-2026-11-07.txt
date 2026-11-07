@@ -1134,3 +1134,4 @@ Oru chinna city la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana 
 Movie 3153 - Jailer - Rajini - Mass!
 Recipe 3154 - Snacks - Potato + Masala - Crispy!
 Quote 3155 - Daily try pannu - Jeyichiduva! - Aira
+Thirukkural 3156 - Anbu - Ellam Tharum! - Thirukkural
