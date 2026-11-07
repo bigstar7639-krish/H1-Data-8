@@ -540,3 +540,6 @@ A: Steve Reich - Entertainment: Music
 Knowledge Quiz
 Q: What is the capital of the US State of New York?
 A: Albany - Geography
+Knowledge Quiz
+Q: What is the region conjoining Pakistan, India, and China with unknown leadership called?
+A: Kashmir - Geography
