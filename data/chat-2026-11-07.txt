@@ -1411,3 +1411,5 @@ Joke 3314
 Why bike sad? Petrol illa!
 Story 3315
 Oru tokyo la oru doctor irunthan! Daily travel pannan pannan! Oru naal power kedaichuchu! Life maariduchu!
+Coding Q 3316 - React la component enna?
+Aira: React component - Chinna piece!
