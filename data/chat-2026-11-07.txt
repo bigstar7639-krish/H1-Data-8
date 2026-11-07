@@ -124,3 +124,4 @@ Vocab 2875 - Happy = Santhosham 📚
 Quote 2876 - Daily try pannu - Jeyichiduva! - Aira
 Q 2877 - Faith pathi oru secret sollatta?
 Vocab 2878 - Dream = Kanavu 📚
+Vocab 2879 - Courage = Thairiyam 📚
