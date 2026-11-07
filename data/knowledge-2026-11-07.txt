@@ -1128,3 +1128,6 @@ A: Auto - Entertainment: Video Games
 Knowledge Quiz
 Q: Who assassinated Archduke Franz Ferdinand?
 A: Gavrilo Princip - History
+Knowledge Quiz
+Q: When was the top-down online RPG "Space Station 13" released?
+A: 2003 - Entertainment: Video Games
