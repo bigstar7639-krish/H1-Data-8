@@ -407,3 +407,6 @@ A: 1848 - Geography
 Knowledge Quiz
 Q: In what year was the movie "Police Academy" released?
 A: 1984 - Entertainment: Film
+Knowledge Quiz
+Q: Which author and poet famously wrote the line, "The female of the species is more deadly than the male"?
+A: Rudyard Kipling - Entertainment: Books
