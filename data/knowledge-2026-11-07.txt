@@ -730,3 +730,6 @@ A: Momo Deviluke - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What is the star sign of someone born on Valentines day?
 A: Aquarius - General Knowledge
+Knowledge Quiz
+Q: Which of these did mathematician Leonhard Euler NOT develop?
+A: An improvement to the Fast Fourier Transform - Science: Mathematics
