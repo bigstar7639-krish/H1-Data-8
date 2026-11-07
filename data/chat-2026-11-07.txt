@@ -157,3 +157,4 @@ Health 2888 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Smart Q 2889 - Diet la eppadi jeyikkarathu?
 Recipe 2890 - Snacks - Potato + Masala - Crispy! 🍔
 Talk 2891 - Sad pathi pesalama? Sollu! 💬
+Knowledge 2892 - Internet - Internet pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
