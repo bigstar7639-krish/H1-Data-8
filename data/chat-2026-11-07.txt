@@ -903,3 +903,4 @@ Knowledge 3027 - Python - Python loop: `for i in range(5): print(i)`
 Smart Q 3028 - Internet la eppadi jeyikkarathu?
 Joke 3029
 Teacher: Yen late? Student: School Ahead board!
+Vocab 3030 - Dream = Kanavu
