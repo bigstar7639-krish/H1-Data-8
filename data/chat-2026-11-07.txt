@@ -1280,3 +1280,5 @@ Health 3242 - Health Tip: Daily 30 min walk ponga!
 Story 3243
 Oru chinna world la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Thirukkural 3244 - Anbu - Ellam Tharum! - Thirukkural
+Emotion Q 3245 - bored?
+Aira: Bored ah? Joke sollattuma?
