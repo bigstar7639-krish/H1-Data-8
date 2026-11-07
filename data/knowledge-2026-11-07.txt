@@ -703,3 +703,6 @@ A: Black - Animals
 Knowledge Quiz
 Q: Which one of these artists appears in the album Deltron 3030?
 A: Dan the Automater - Entertainment: Music
+Knowledge Quiz
+Q: Which of these Roman gods doesn't have a counterpart in Greek mythology?
+A: Janus - Mythology
