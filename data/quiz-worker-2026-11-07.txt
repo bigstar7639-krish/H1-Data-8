@@ -325,3 +325,6 @@ A: Swedish - Entertainment: Music
 Auto Quiz - Samurai 🧠
 Q: What was the capital of South Vietnam before the Vietnam War?
 A: Saigon - History
+Auto Quiz - Ninja 🧠
+Q: Who is the author of the manga series "Astro Boy"?
+A: Osamu Tezuka - Entertainment: Japanese Anime & Manga
