@@ -868,3 +868,6 @@ A: Combustion - Vehicles
 Knowledge Quiz
 Q: In the Pokémon series, which type is Sudowoodo, the Imitation Pokémon?
 A: Rock - Entertainment: Video Games
+Knowledge Quiz
+Q: In Splatoon 2, who are the members of Off The Hook?
+A: Pearl & Marina - Entertainment: Video Games
