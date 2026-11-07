@@ -757,3 +757,5 @@ Kavithai 2942 - Un Kural - En Isai! - Aira
 Recipe 2943 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Fact 126 - Tamil - 2000+ varusha mozhi!
 Recipe 2945 - Cake - Maida + Sugar + Egg + 30 min!
+Story 2946
+Oru paris la oru farmer irunthan! Daily try pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
