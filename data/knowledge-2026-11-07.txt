@@ -534,3 +534,6 @@ A: M.I.A. - Entertainment: Music
 Knowledge Quiz
 Q: Which NBA player won Most Valuable Player for the 1999-2000 season?
 A: Shaquille O'Neal - Sports
+Knowledge Quiz
+Q: Who is a pioneer of "Minimal Music" in 1960s?
+A: Steve Reich - Entertainment: Music
