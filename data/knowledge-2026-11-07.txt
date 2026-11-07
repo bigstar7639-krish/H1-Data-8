@@ -697,3 +697,6 @@ A: Japan - General Knowledge
 Knowledge Quiz
 Q: The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
 A: Taiwan - Science: Computers
+Knowledge Quiz
+Q: What color/colour is a polar bear's skin?
+A: Black - Animals
