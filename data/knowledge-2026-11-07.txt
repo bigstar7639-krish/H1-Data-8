@@ -389,3 +389,6 @@ A: Ice Axe - Entertainment: Video Games
 Knowledge Quiz
 Q: To the nearest whole number, how many radians are in a whole circle?
 A: 6 - Science: Mathematics
+Knowledge Quiz
+Q: On the Beaufort Scale of wind force, what wind name is given to number 8?
+A: Gale - Science & Nature
