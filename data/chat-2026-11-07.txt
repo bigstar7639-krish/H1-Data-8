@@ -752,3 +752,4 @@ Fact 125 - Octopus ku 3 heart!
 Coding Q 2939 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 Health 2940 - Health Tip: Daily 30 min walk ponga!
+Recipe 2941 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
