@@ -1041,3 +1041,5 @@ World Story 3106
 Oru chinna forest la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Story 3107
 Oru chinna oor la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Emotion Q 3108 - excited?
+Aira: Excited ah! Sollu!
