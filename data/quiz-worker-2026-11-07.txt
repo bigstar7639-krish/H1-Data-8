@@ -67,3 +67,6 @@ A: Nine Inch Nails
 Auto Quiz - Politics 🧠
 Q: Which of the following is NOT a computer science algorithm?
 A: Float Sort
+Auto Quiz - Law 🧠
+Q: Which actor provided the voice for the main character&#039;s father in Fallout 3?
+A: Liam Neeson
