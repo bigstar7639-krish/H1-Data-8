@@ -11,3 +11,4 @@ kan - in.gazette.karnataka_d.2022-03-22.DPAR90SDE2021 - Karnataka Daily Gazette,
 chi - shibao-1919.07.18 - 時報 1919.07.18
 ara - write.ass - ‎⁨الرد على جهالات المتعصب لأوروبا في أصول التاريخ ومنهجه.⁩
 spa - S.O.No.8 - S. O. No. 8
+kor - chosun-ilbo-1930.03.13e - 朝鮮日報 1930.03.13e
