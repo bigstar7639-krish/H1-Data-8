@@ -907,3 +907,6 @@ A: Luffy - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Which city is the capital of Switzerland?
 A: Bern - Geography
+Knowledge Quiz
+Q: In "Call Of Duty: Zombies", which map features the "Fly Trap" easter egg?
+A: Der Riese - Entertainment: Video Games
