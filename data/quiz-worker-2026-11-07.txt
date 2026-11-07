@@ -196,3 +196,6 @@ A: Tenerife
 Auto Quiz - Game 🧠
 Q: Which car manufacturer won the 2017 24 Hours of Le Mans?
 A: Porsche
+Auto Quiz - Sport 🧠
+Q: British actor David Morrissey stars as which role in &quot;The Walking Dead&quot;?
+A: The Governor
