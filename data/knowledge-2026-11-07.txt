@@ -865,3 +865,6 @@ A: Gold - Science & Nature
 Knowledge Quiz
 Q: Which one is NOT the function of engine oil in car engines?
 A: Combustion - Vehicles
+Knowledge Quiz
+Q: In the Pokémon series, which type is Sudowoodo, the Imitation Pokémon?
+A: Rock - Entertainment: Video Games
