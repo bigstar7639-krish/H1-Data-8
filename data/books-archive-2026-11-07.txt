@@ -150,3 +150,4 @@ Science - bwb_Y0-DBO-535 - The Science of Genetics
 Science - bwb_Y0-BUU-657 - Science and Invention Encyclopedia
 History - bwb_Y0-DSL-038 - a new testament history; the story of the emerging church
 History - bwb_Y0-EHZ-224 - THE CAMBRIDGE MEDIEVAL HISTORY
+Culture - translatedjewger0000morr - The translated Jew : German Jewish culture outside the margins
