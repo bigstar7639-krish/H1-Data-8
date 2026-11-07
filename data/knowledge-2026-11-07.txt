@@ -1041,3 +1041,6 @@ A: Multiplayer Online Battle Arena (MOBA) - Entertainment: Video Games
 Knowledge Quiz
 Q: In what year did Halley's Comet, which will not appear again until the year 2061, previously approach Earth?
 A: 1986 - General Knowledge
+Knowledge Quiz
+Q: Vatican City, the smallest country in the world, is fully enclosed by which country?
+A: Italy - Geography
