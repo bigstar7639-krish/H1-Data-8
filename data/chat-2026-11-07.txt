@@ -158,3 +158,4 @@ Smart Q 2889 - Diet la eppadi jeyikkarathu?
 Recipe 2890 - Snacks - Potato + Masala - Crispy! 🍔
 Talk 2891 - Sad pathi pesalama? Sollu! 💬
 Knowledge 2892 - Internet - Internet pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Business Idea 2893 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
