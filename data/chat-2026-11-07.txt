@@ -586,3 +586,5 @@ Story 2854
 Oru chinna mountain la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Coding Q 2855 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Story 2856
+Oru chinna tokyo la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
