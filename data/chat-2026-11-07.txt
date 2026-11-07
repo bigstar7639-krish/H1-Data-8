@@ -537,3 +537,4 @@ Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Motivation 2832
 Paravalla! Rest edu - Thirumba try pannu!
 Talk 2833 - Truth pathi pesalama? Sollu!
+Smart Q 2834 - Business la eppadi jeyikkarathu?
