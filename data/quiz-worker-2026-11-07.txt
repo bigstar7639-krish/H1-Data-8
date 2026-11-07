@@ -208,3 +208,6 @@ A: Ira Levin
 Auto Quiz - Culture 🧠
 Q: What is the name of Eragon&#039;s dragon in &quot;Eragon&quot;?
 A: Saphira
+Auto Quiz - Festival 🧠
+Q: Which English football team is nicknamed &#039;The Tigers&#039;?
+A: Hull City
