@@ -1026,3 +1026,6 @@ A: Mike Tyson - Sports
 Knowledge Quiz
 Q: Which of these is not a key value of Agile software development?
 A: Comprehensive documentation - Science: Computers
+Knowledge Quiz
+Q: Who voices the infamous Citadel Station A.I known as S.H.O.D.A.N, in the System Shock games?
+A: Terri Brosius - Entertainment: Video Games
