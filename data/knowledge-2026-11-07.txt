@@ -398,3 +398,6 @@ A: German - History
 Knowledge Quiz
 Q: Which of these is an official currency of the Cook Islands?
 A: New Zealand Dollar - Geography
+Knowledge Quiz
+Q: Which computer language would you associate Django framework with?
+A: Python - Science: Computers
