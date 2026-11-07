@@ -1051,3 +1051,6 @@ A: 16 - Geography
 Knowledge Quiz
 Q: What is the real name of the "Master Of Magnetism" Magneto?
 A: Max Eisenhardt - Entertainment: Comics
+Knowledge Quiz
+Q: In the video game "League of Legends" which character is known as "The Sinister Blade"?
+A: Katarina - Entertainment: Video Games
