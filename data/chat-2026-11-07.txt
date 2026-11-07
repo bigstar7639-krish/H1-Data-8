@@ -265,3 +265,5 @@ Oru chinna village la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! 
 Coding Q 2952 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 Thirukkural 2953 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Coding Q 2954 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!
