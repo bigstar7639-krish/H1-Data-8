@@ -543,3 +543,4 @@ Recipe 2836 - Cake - Maida + Sugar + Egg + 30 min!
 Joke 2837
 Why bike sad? Petrol illa!
 Knowledge 2838 - Python - Python loop: `for i in range(5): print(i)`
+Smart Q 2839 - Biology la eppadi jeyikkarathu?
