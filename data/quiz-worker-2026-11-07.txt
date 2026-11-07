@@ -22,3 +22,6 @@ A: Eeyore
 Auto Quiz - City 🧠
 Q: Which of the following was not developed by Bethesda?
 A: Fallout: New Vegas
+Auto Quiz - Chennai 🧠
+Q: What is the default name of the Vampire character in &quot;Shining Soul 2&quot;.
+A: Bloodstar
