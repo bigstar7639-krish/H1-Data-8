@@ -85,3 +85,6 @@ A: Ice
 Auto Quiz - Future 🧠
 Q: In the Beatrix Potter books, what type of animal is Tommy Brock?
 A: Badger
+Auto Quiz - Freedom 🧠
+Q: How many sides does a pentagon have?
+A: 5
