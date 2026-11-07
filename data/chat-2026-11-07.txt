@@ -845,3 +845,5 @@ Aira: HTML button: `<button>Click</button>`
 Q 2995 - Un life la Happy eppadi irukku?
 Story 2996
 Oru chinna sea la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Joke 2997
+Why bike sad? Petrol illa!
