@@ -624,3 +624,4 @@ Recipe 2870 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Vocab 2871 - Peace = Amaithi
 Motivation 2872
 Paravalla! Rest edu - Thirumba try pannu!
+Q 2873 - Ne Magic la eppadi improve panna mudiyum?
