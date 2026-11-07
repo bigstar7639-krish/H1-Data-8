@@ -1084,3 +1084,6 @@ A: Sweden - Geography
 Knowledge Quiz
 Q: What is the official language of Bhutan?
 A: Dzongkha - Geography
+Knowledge Quiz
+Q: What polymer is used to make CDs, safety goggles and riot shields?
+A: Polycarbonate - Science & Nature
