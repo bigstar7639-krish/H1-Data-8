@@ -175,3 +175,6 @@ A: Ingress
 Auto Quiz - Yoga 🧠
 Q: Which animal was part of an Russian domestication experiment in 1959?
 A: Foxes
+Auto Quiz - Meditation 🧠
+Q: On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?
+A: Pencilvester
