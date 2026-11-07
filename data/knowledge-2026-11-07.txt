@@ -874,3 +874,6 @@ A: Pearl & Marina - Entertainment: Video Games
 Knowledge Quiz
 Q: What's the second book in George R. R. Martin's 'A Song of Ice and Fire' series?
 A: A Clash of Kings - Entertainment: Books
+Knowledge Quiz
+Q: Which of these elements on the Periodic Table is a Noble Gas?
+A: Neon - Science & Nature
