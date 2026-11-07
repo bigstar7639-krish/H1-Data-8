@@ -130,3 +130,6 @@ A: Vincent van Gogh
 Auto Quiz - Flower 🧠
 Q: What style of beer will typically have a higher than average hop content?
 A: India Pale Ale
+Auto Quiz - Sea 🧠
+Q: Who assassinated Archduke Franz Ferdinand?
+A: Gavrilo Princip
