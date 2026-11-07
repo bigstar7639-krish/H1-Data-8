@@ -392,3 +392,6 @@ A: 6 - Science: Mathematics
 Knowledge Quiz
 Q: On the Beaufort Scale of wind force, what wind name is given to number 8?
 A: Gale - Science & Nature
+Knowledge Quiz
+Q: The creator of the Enigma Cypher and Machine was of what nationality?
+A: German - History
