@@ -963,3 +963,6 @@ A: Purple - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following is true when alligators are behaving territorially?
 A: They bellow while showing their tail and neck - Animals
+Knowledge Quiz
+Q: Which film has been critically regarded as the best film of all time?
+A: Citizen Kane - Entertainment: Film
