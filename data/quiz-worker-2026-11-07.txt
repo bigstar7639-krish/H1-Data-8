@@ -55,3 +55,6 @@ A: MOA
 Auto Quiz - Taj Mahal 🧠
 Q: In &quot;Kingdom Hearts&quot;, who abducts Jasmine in the Lamp Chamber?
 A: Riku
+Auto Quiz - Eiffel Tower 🧠
+Q: Which car tire manufacturer is famous for its &quot;Eagle&quot; brand of tires, and is the official tire supplier of NASCAR?
+A: Goodyear
