@@ -1403,3 +1403,4 @@ Emotion Q 3307 - excited?
 Aira: Excited ah! Sollu!
 Q 3308 - Un life la Mountain eppadi irukku?
 Movie 3309 - Ponniyin Selvan - Kalki!
+Smart Q 3310 - Destiny la eppadi jeyikkarathu?
