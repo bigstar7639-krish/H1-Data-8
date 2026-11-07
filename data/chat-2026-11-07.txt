@@ -1133,3 +1133,4 @@ Story 3152
 Oru chinna city la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Movie 3153 - Jailer - Rajini - Mass!
 Recipe 3154 - Snacks - Potato + Masala - Crispy!
+Quote 3155 - Daily try pannu - Jeyichiduva! - Aira
