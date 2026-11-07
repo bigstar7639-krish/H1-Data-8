@@ -1224,3 +1224,4 @@ Business Idea 3198 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Recipe 3199 - Snacks - Potato + Masala - Crispy!
 Fact 136 - Honey - 3000 varusham kedathu!
 Vocab 3201 - Courage = Thairiyam
+Talk 3202 - Universe pathi pesalama? Sollu!
