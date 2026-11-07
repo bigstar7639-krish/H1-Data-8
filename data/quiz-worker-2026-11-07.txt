@@ -148,3 +148,6 @@ A: Shambala
 Auto Quiz - Moon 🧠
 Q: Who was the only US President to be elected four times?
 A: Franklin Roosevelt
+Auto Quiz - Sun 🧠
+Q: What battle was the longest in World War I, lasting approximately 303 days?
+A: Battle of Verdun 
