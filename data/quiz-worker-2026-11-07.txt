@@ -34,3 +34,6 @@ A: 1453
 Auto Quiz - Mumbai 🧠
 Q: How many countries does Mexico border?
 A: 3
+Auto Quiz - London 🧠
+Q: What is Russia&#039;s second-largest city?
+A: Saint Petersburg
