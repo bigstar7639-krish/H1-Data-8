@@ -37,3 +37,6 @@ A: 3
 Auto Quiz - London 🧠
 Q: What is Russia&#039;s second-largest city?
 A: Saint Petersburg
+Auto Quiz - Paris 🧠
+Q: Which country does Austria not border?
+A: France
