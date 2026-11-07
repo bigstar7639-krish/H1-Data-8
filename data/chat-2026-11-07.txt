@@ -414,3 +414,4 @@ Health 3034 - Health Tip: Fruits daily saapdunga! 🍎 💪
 Reading 3035 - Alchemist! 📚
 Talk 3036 - Einstein pathi pesalama? Sollu! 💬
 Quote 3037 - Daily try pannu - Jeyichiduva! - Aira
+Smart Q 3038 - Sport la eppadi jeyikkarathu?
