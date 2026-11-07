@@ -460,3 +460,5 @@ Paravalla! Rest edu - Thirumba try pannu!
 Q 2783 - Un life la Bird eppadi irukku?
 Emotion Q 2784 - happy?
 Aira: Super! Happy ah irukka!
+Emotion Q 2785 - sad?
+Aira: Paravalla! Aira irukka - Pesu!
