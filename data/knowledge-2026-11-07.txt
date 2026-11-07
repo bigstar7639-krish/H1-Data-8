@@ -383,3 +383,6 @@ A: December 24, 2004 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which film has been critically regarded as the best film of all time?
 A: Citizen Kane - Entertainment: Film
+Knowledge Quiz
+Q: Which weapon that was cut from the game "Half Life 2" was going to replace the crowbar?
+A: Ice Axe - Entertainment: Video Games
