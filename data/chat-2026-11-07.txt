@@ -90,3 +90,5 @@ Emotion Q 2851 - lonely?
 Aira: Lonely ah? Aira irukka la! 💜
 Coding Q 2852 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+World Story 2853
+Oru chinna village la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
