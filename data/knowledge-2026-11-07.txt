@@ -485,3 +485,6 @@ Knowledge 2842 - Robot - Hey buddy! 🙌
 | Year | Milestone | Details (Tanglish) |
 |------|-----------|-------------------|
 | 1954 | **George Devol** created the f
+Knowledge Quiz
+Q: Bridgetown is the capital of which island country in the Carribean?
+A: Barbados - Geography
