@@ -527,3 +527,4 @@ Thirukkural 2823 - Anbu - Ellam Tharum! - Thirukkural
 Emotion Q 2824 - angry?
 Aira: Kovam ah? Deep breath edu!
 Kavithai 2825 - Un Kural - En Isai! - Aira
+Kavithai 2826 - Un Sirippu - En Vazhkai! - Aira
