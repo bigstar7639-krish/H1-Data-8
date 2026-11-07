@@ -163,3 +163,4 @@ Star - Star Wars - Thrawn
 Moon - New Moon
 Moon - Goodnight Moon
 Moon - The moon is a harsh mistress
+Sun - The Sun Also Rises
