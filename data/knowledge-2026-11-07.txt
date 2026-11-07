@@ -602,3 +602,6 @@ A: Russia - Sports
 Knowledge Quiz
 Q: How many women joined the United States Armed Services during World War II?
 A: 350,000 - History
+Knowledge Quiz
+Q: Which of the following liquids is least viscous? Assume temperature is 25°C.
+A: Acetone - Science & Nature
