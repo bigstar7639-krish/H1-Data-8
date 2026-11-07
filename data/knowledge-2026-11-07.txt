@@ -1032,3 +1032,6 @@ A: Terri Brosius - Entertainment: Video Games
 Knowledge Quiz
 Q: The video game publishers known as "tinyBuild" published which of these games?
 A: Clustertruck - Entertainment: Video Games
+Knowledge Quiz
+Q: In the 2015 RPG "Undertale", which character do you first encounter after falling down into the underground?
+A: Flowey - Entertainment: Video Games
