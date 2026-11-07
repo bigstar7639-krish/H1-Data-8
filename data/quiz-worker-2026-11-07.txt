@@ -151,3 +151,6 @@ A: Franklin Roosevelt
 Auto Quiz - Sun 🧠
 Q: What battle was the longest in World War I, lasting approximately 303 days?
 A: Battle of Verdun 
+Auto Quiz - Bird 🧠
+Q: How many players are there in an association football/soccer team?
+A: 11
