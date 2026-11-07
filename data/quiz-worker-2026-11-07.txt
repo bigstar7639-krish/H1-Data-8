@@ -157,3 +157,6 @@ A: 11
 Auto Quiz - Animal 🧠
 Q: Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?
 A: Aero Deck
+Auto Quiz - Baby 🧠
+Q: What is the name of the fourth book in Stephen King&#039;s The Dark Tower series?
+A: Wizard and Glass
