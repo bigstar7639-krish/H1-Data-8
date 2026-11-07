@@ -960,3 +960,6 @@ A: a lawnmower - Entertainment: Film
 Knowledge Quiz
 Q: In the "Pikmin" games, which of the following pikmin colors lacks it's own "Onion" nest?
 A: Purple - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following is true when alligators are behaving territorially?
+A: They bellow while showing their tail and neck - Animals
