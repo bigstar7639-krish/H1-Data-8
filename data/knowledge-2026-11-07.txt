@@ -837,3 +837,6 @@ A: Switzerland - History
 Knowledge Quiz
 Q: Who is the main villain in Bendy and the ink machine?
 A: Bendy - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of the following is the world's best-selling book?
+A: The Lord of the Rings - Entertainment: Books
