@@ -13,3 +13,4 @@ Story 2816
 Oru chinna village la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Emotion Q 2817 - happy?
 Aira: Super! Happy ah irukka! 😊
+Talk 2818 - Peace pathi pesalama? Sollu! 💬
