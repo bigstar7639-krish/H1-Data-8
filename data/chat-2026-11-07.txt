@@ -759,3 +759,5 @@ Fact 126 - Tamil - 2000+ varusha mozhi!
 Recipe 2945 - Cake - Maida + Sugar + Egg + 30 min!
 Story 2946
 Oru paris la oru farmer irunthan! Daily try pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
+Joke 2947
+Teacher: Yen late? Student: School Ahead board!
