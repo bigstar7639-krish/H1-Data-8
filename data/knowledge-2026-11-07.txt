@@ -752,3 +752,6 @@ A: Jean-Claude Van Damme - Entertainment: Film
 Knowledge Quiz
 Q: Killing Floor started as a mod for which Unreal Engine 2 game?
 A: Unreal Tournament 2004 - Entertainment: Video Games
+Knowledge Quiz
+Q: Who is the lead singer of Bastille?
+A: Dan Smith - Entertainment: Music
