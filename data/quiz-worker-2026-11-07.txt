@@ -310,3 +310,6 @@ A: 19 - History
 Auto Quiz - Sushi 🧠
 Q: What is the full name of the protagonist from the SNES game Clock Tower?
 A: Jennifer Simpson - Entertainment: Video Games
+Auto Quiz - Kyoto 🧠
+Q: Which of these is NOT a city in India?
+A: Islamabad - Geography
