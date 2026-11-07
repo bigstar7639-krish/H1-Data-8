@@ -262,3 +262,6 @@ A: Kazuma Kiryu - Entertainment: Video Games
 Auto Quiz - Eiffel Tower 🧠
 Q: What is the name of a popular franchise that includes placing blocks down and surviving in an open world? 
 A: Minecraft - Entertainment: Video Games
+Auto Quiz - Psychology 🧠
+Q: What is the protagonist's title given by the demons in DOOM (2016)?
+A: Doom Slayer - Entertainment: Video Games
