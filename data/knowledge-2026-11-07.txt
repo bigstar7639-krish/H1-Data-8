@@ -814,3 +814,6 @@ A: John - Entertainment: Music
 Knowledge Quiz
 Q: Which of the following is the IATA code for Manchester Airport?
 A: MAN - General Knowledge
+Knowledge Quiz
+Q: In "Jurassic World", what is the name of the dinosaur that is a genetic hybrid?
+A: Indominus Rex - Entertainment: Film
