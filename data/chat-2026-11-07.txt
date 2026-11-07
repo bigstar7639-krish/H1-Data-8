@@ -807,3 +807,5 @@ Vocab 2973 - Love = Kadhal
 Motivation 2974
 Paravalla! Rest edu - Thirumba try pannu!
 Movie 2975 - Leo - Vijay - Action!
+Joke 2976
+Teacher: Yen late? Student: School Ahead board!
