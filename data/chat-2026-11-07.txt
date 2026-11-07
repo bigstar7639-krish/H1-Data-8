@@ -840,3 +840,5 @@ Game 2990 - Coin Toss - Ne Toss nu Sollu!
 Thirukkural 2991 - Porumai - Periya Sakthi! - Thirukkural
 Game 2992 - Dice - Ne Dice nu Sollu!
 Quote 2993 - Daily try pannu - Jeyichiduva! - Aira
+Coding Q 2994 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`
