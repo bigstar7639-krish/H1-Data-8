@@ -781,3 +781,6 @@ A: Skinner Sweet - Entertainment: Comics
 Knowledge Quiz
 Q: In Disney's "Toontown Online", which of these species wasn't available as a Toon?
 A: Cow - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the first company to use the term "Golden Master"?
+A: Apple - Science: Computers
