@@ -802,3 +802,6 @@ A: 3 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which song in rapper Kanye West's album "The Life of Pablo" features Rihanna?
 A: Famous - Entertainment: Music
+Knowledge Quiz
+Q: Which of these words refers to something made, distributed, or sold illegally?
+A: Bootleg - General Knowledge
