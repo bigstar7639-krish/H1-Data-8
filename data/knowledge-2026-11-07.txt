@@ -950,3 +950,6 @@ A: Yotsuba&! - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Who succeded Josef Stalin as the leader of the Soviet Union?
 A: Nikita Krushchev - History
+Knowledge Quiz
+Q: Which was the first "Call Of Duty: Zombies" map to introduce the "Wunderwaffe DG-2"?
+A: Shi No Numa - Entertainment: Video Games
