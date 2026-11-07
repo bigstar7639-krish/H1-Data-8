@@ -10,3 +10,4 @@ Game 2772 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 2773 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 2786 - Coin Toss - Ne Toss nu Sollu!
 Game 2804 - Dice - Ne Dice nu Sollu!
+Game 2861 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
