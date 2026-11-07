@@ -821,3 +821,5 @@ Robot pathi oru cute story venuma? 🎉
 There was a tiny village called **Manniyur** tucked between the green paddy fields of Tamil Nadu. Every year the people celebrated *Deepavali* with oil‑lamps, fireworks and a huge **kavadi** procession. But one year, a sudden storm knocked out the electricity for days. The kids were sad, the elders worried – “How will we light the night?” they asked.
 
 Enter **Robo‑01**, a friendly little robot built by the village’s tech‑savvy youngster **Arun**. Arun had spent months in his tiny garage, mixing **micro‑controllers**, solar panels, and a dash of *Tamil‑spice* (just kidding, but he did program it with lots of love!). Robo‑01 looked like a cute tin‑box with big LED eyes and a soft, whirring
+Emotion Q 2979 - bored?
+Aira: Bored ah? Joke sollattuma?
