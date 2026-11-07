@@ -1152,3 +1152,6 @@ A: Lehman Brothers - Politics
 Knowledge Quiz
 Q: Which of the following is NOT classified as a Semetic language?
 A: Sumerian - History
+Knowledge Quiz
+Q: What is the most common type of pitch thrown by pitchers in baseball?
+A: Fastball - Sports
