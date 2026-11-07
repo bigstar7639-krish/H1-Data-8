@@ -388,3 +388,4 @@ Health 3024 - Health Tip: Daily 30 min walk ponga! 🚶 💪
 Thirukkural 3025 - Anbu - Ellam Tharum! - Thirukkural
 Joke 3026
 Why bike sad? Petrol illa!
+Talk 3027 - Computer pathi pesalama? Sollu! 💬
