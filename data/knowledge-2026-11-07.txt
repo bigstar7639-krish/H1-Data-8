@@ -662,3 +662,6 @@ A: Ontario - Sports
 Knowledge Quiz
 Q: What national team won the first UEFA Nations League?
 A: Portugal - Sports
+Knowledge Quiz
+Q: What is the last letter of the Greek alphabet?
+A: Omega - General Knowledge
