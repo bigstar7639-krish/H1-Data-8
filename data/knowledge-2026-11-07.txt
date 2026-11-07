@@ -339,3 +339,6 @@ Knowledge 3030 - Confidence - **Hey! I’m Aira – your friendly “Tamil‑Tan
 Knowledge Quiz 🧠
 Q: What is the approximate value of mathematical constant e?
 A: 2.72 - Science: Mathematics
+Knowledge Quiz 🧠
+Q: On a standard Monopoly board, how much do you have to pay for Tennessee Ave?
+A: $180 - Entertainment: Board Games
