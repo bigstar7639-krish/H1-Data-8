@@ -1131,3 +1131,6 @@ A: Gavrilo Princip - History
 Knowledge Quiz
 Q: When was the top-down online RPG "Space Station 13" released?
 A: 2003 - Entertainment: Video Games
+Knowledge Quiz
+Q: The book "The Little Prince" was written by...
+A: Antoine de Saint-Exupéry - Entertainment: Books
