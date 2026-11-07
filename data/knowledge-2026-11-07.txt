@@ -454,3 +454,6 @@ A: Stern - General Knowledge
 Knowledge Quiz
 Q: In what year did the North American Video Game Crash occur?
 A: 1983 - History
+Knowledge Quiz
+Q: Which one of the following is NOT a sub-company of the Volkswagen Group?
+A: Opel - Vehicles
