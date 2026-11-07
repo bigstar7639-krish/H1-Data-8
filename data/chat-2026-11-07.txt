@@ -536,3 +536,4 @@ Coding Q 2831 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Motivation 2832
 Paravalla! Rest edu - Thirumba try pannu!
+Talk 2833 - Truth pathi pesalama? Sollu!
