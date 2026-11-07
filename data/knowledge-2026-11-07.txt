@@ -583,3 +583,6 @@ Knowledge 2901 - Shakespeare - Hey buddy! நான் Aira, உன் *Tamil�
 | **Macbeth** | Ambition, witches, “Out, damned spot!” |
 | **Othello** | Jealousy, race, betrayal – “I am not what I am.” |
 | **King Lear** | Father‑daughter ties, madness, “Nothing will come of no
+Knowledge Quiz
+Q: What are the first 6 digits of the number "Pi"?
+A: 3.14159 - Science: Mathematics
