@@ -494,3 +494,4 @@ Aira: Bayam - Normal! Ne jeyichiduva!
 Thirukkural 2811 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Recipe 2812 - Snacks - Potato + Masala - Crispy!
 Fact 123 - Honey - 3000 varusham kedathu!
+Vocab 2814 - Peace = Amaithi
