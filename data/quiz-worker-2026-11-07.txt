@@ -79,3 +79,6 @@ A: Binary
 Auto Quiz - Smile 🧠
 Q: The &#039;Islets of Langerhans&#039; is found in which human organ?
 A: Pancreas
+Auto Quiz - Heart 🧠
+Q: Which of the following Pokemon Types was present in the original games, Red and Blue?
+A: Ice
