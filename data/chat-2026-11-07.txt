@@ -628,3 +628,5 @@ Q 2873 - Ne Magic la eppadi improve panna mudiyum?
 Q 2874 - Maths pathi oru secret sollatta?
 Emotion Q 2875 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
+Emotion Q 2876 - sad?
+Aira: Paravalla! Aira irukka - Pesu!
