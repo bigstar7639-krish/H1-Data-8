@@ -209,3 +209,6 @@ A: Lin-Manuel Miranda - Entertainment: Musicals &amp; Theatres
 Knowledge Quiz 🧠
 Q: What does the International System of Quantities refer 1024 bytes as?
 A: Kibibyte - Science: Computers
+Knowledge Quiz 🧠
+Q: Which European city is known as the &quot;City of Light&quot;?
+A: Paris - Geography
