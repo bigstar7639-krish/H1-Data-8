@@ -1284,3 +1284,4 @@ Emotion Q 3245 - bored?
 Aira: Bored ah? Joke sollattuma?
 Pazhamozhi 3246 - Porumai - Perumai Tharum!
 Movie 3247 - Harry Potter - Magic!
+Quote 3248 - Daily try pannu - Jeyichiduva! - Aira
