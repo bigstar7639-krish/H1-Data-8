@@ -371,3 +371,5 @@ Knowledge 3009 - Pyramids - Hey buddy! 🐦  இங்க பைரமிட�
 Quote 3010 - Daily try pannu - Jeyichiduva! - Aira
 Q 3011 - Maths pathi oru story kekkura?
 Talk 3012 - Money pathi pesalama? Sollu! 💬
+Joke 3013
+Teacher: Yen late? Student: School Ahead board! 😂
