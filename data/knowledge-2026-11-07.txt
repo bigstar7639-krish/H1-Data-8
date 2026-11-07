@@ -700,3 +700,6 @@ A: Taiwan - Science: Computers
 Knowledge Quiz
 Q: What color/colour is a polar bear's skin?
 A: Black - Animals
+Knowledge Quiz
+Q: Which one of these artists appears in the album Deltron 3030?
+A: Dan the Automater - Entertainment: Music
