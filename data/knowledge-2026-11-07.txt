@@ -206,3 +206,6 @@ A: Partisan Eagle - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: Who wrote the musical &quot;Hamilton&quot;?
 A: Lin-Manuel Miranda - Entertainment: Musicals &amp; Theatres
+Knowledge Quiz 🧠
+Q: What does the International System of Quantities refer 1024 bytes as?
+A: Kibibyte - Science: Computers
