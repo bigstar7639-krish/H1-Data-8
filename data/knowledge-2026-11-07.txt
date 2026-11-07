@@ -847,3 +847,6 @@ Knowledge 3094 - Ponniyin Selvan - Ponniyin Selvan pathi sollu - Nalla question!
 Knowledge Quiz
 Q: Which car brand does NOT belong to General Motors?
 A: Ford - Vehicles
+Knowledge Quiz
+Q: With his distinctive red hair, which Italian composer, born in 1678, was known as the 'Red Priest'?
+A: Vivaldi - Entertainment: Music
