@@ -1038,3 +1038,6 @@ A: Flowey - Entertainment: Video Games
 Knowledge Quiz
 Q: League of Legends, DOTA 2, Smite and Heroes of the Storm are all part of which game genre?
 A: Multiplayer Online Battle Arena (MOBA) - Entertainment: Video Games
+Knowledge Quiz
+Q: In what year did Halley's Comet, which will not appear again until the year 2061, previously approach Earth?
+A: 1986 - General Knowledge
