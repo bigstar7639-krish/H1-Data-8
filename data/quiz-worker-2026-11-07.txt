@@ -145,3 +145,6 @@ A: 17
 Auto Quiz - Star 🧠
 Q: What was the wifi password given to Stephen Strange in Doctor Strange?
 A: Shambala
+Auto Quiz - Moon 🧠
+Q: Who was the only US President to be elected four times?
+A: Franklin Roosevelt
