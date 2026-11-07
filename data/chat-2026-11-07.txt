@@ -488,3 +488,4 @@ Smart Q 2805 - Business la eppadi jeyikkarathu?
 Q 2806 - Ne Festival la eppadi improve panna mudiyum?
 Recipe 2807 - Cake - Maida + Sugar + Egg + 30 min!
 Talk 2808 - Thirukkural pathi pesalama? Sollu!
+Quote 2809 - Daily try pannu - Jeyichiduva! - Aira
