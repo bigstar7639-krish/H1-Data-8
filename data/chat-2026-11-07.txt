@@ -1059,3 +1059,5 @@ Q 3118 - Angry pathi oru story kekkura?
 Vocab 3119 - Dream = Kanavu
 Recipe 3120 - Snacks - Potato + Masala - Crispy!
 Smart Q 3121 - Mountain la eppadi jeyikkarathu?
+Emotion Q 3122 - bored?
+Aira: Bored ah? Joke sollattuma?
