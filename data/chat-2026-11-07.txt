@@ -246,3 +246,4 @@ Recipe 2936 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Q 2937 - Un life la Chennai eppadi irukku?
 Smart Q 2938 - Bharathiyar la eppadi jeyikkarathu?
 Vocab 2939 - Peace = Amaithi 📚
+Game 2940 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
