@@ -840,3 +840,6 @@ A: Bendy - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of the following is the world's best-selling book?
 A: The Lord of the Rings - Entertainment: Books
+Knowledge Quiz
+Q: Which issue of the "Sonic the Hedgehog" comic did Scourge the Hedgehog make his first appearance?
+A: Sonic the Hedgehog #11 - Entertainment: Comics
