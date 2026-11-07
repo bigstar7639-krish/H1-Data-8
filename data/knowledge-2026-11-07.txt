@@ -401,3 +401,6 @@ A: New Zealand Dollar - Geography
 Knowledge Quiz
 Q: Which computer language would you associate Django framework with?
 A: Python - Science: Computers
+Knowledge Quiz
+Q: What year is on the flag of the US state Wisconsin?
+A: 1848 - Geography
