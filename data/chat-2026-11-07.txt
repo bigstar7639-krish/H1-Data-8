@@ -1319,3 +1319,4 @@ Coding Q 3263 - React la component enna?
 Aira: React component - Chinna piece!
 Story 3264
 Oru chinna tokyo la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Smart Q 3265 - Success la eppadi jeyikkarathu?
