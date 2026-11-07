@@ -93,3 +93,5 @@ Aira: HTML button: `<button>Click</button>`
 World Story 2853
 Oru chinna village la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Knowledge 2854 - World History - World History pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Joke 2855
+Teacher: Yen late? Student: School Ahead board! 😂
