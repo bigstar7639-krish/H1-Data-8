@@ -715,3 +715,4 @@ Thirukkural 2920 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Kavithai 2921 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Talk 2922 - Flower pathi pesalama? Sollu!
 Quote 2923 - Daily try pannu - Jeyichiduva! - Aira
+Vocab 2924 - Dream = Kanavu
