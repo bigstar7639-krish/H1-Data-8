@@ -862,3 +862,6 @@ A: Charles XII - History
 Knowledge Quiz
 Q: Au on the Periodic Table refers to which element?
 A: Gold - Science & Nature
+Knowledge Quiz
+Q: Which one is NOT the function of engine oil in car engines?
+A: Combustion - Vehicles
