@@ -352,3 +352,4 @@ Osaka - Naomi Osaka
 Osaka - Naomi Osaka
 Japanese Temple - Sacred mathematics
 Japanese Temple - Japanese temples
+Japanese Temple - Japanese Temple Geometry Problems Sangaku
