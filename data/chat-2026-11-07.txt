@@ -886,3 +886,5 @@ Emotion Q 3015 - excited?
 Aira: Excited ah! Sollu!
 World Story 3016
 Oru city la oru paiyan irunthan! Daily coding pannan pannan! Oru naal success kedaichuchu! Life maariduchu!
+World Story 3017
+Oru chennai la oru singer irunthan! Daily padichan pannan! Oru naal success kedaichuchu! Life maariduchu!
