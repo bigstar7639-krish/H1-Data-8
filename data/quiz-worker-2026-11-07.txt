@@ -187,3 +187,6 @@ A: Arteijo
 Auto Quiz - Sleep 🧠
 Q: Who is the creator of the soft drink, Dr. Pepper?
 A: Charles Alderton
+Auto Quiz - Beauty 🧠
+Q: In Marvel comics, which of the following is not one of the infinity stones?
+A: Energy
