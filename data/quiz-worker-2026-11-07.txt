@@ -193,3 +193,6 @@ A: Energy
 Auto Quiz - Fashion 🧠
 Q: What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?
 A: Tenerife
+Auto Quiz - Game 🧠
+Q: Which car manufacturer won the 2017 24 Hours of Le Mans?
+A: Porsche
