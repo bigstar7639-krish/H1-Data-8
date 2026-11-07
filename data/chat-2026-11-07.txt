@@ -970,3 +970,4 @@ Game 3059 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Talk 3060 - Career pathi pesalama? Sollu!
 Talk 3061 - Paris pathi pesalama? Sollu!
 Aira AI: Ne Money la eppadi improve panna mudiyum? - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Game 3063 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
