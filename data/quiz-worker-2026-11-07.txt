@@ -229,3 +229,6 @@ A: Shout - Entertainment: Music
 Auto Quiz - Village 🧠
 Q: Who played the Waitress in the Spam sketch of "Monty Python's Flying Circus"?
 A: Terry Jones - Entertainment: Television
+Auto Quiz - City 🧠
+Q: With his distinctive red hair, which Italian composer, born in 1678, was known as the 'Red Priest'?
+A: Vivaldi - Entertainment: Music
