@@ -647,3 +647,6 @@ A: Edinburgh - Geography
 Knowledge Quiz
 Q: On what date did the original "Fruits Basket" anime air in Japan?
 A: July 5th, 2001 - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: What is the name of the virus in "Metal Gear Solid 1"?
+A: FOXDIE - Entertainment: Video Games
