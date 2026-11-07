@@ -260,3 +260,5 @@ Coding Q 2948 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Kavithai 2949 - Un Kural - En Isai! - Aira
 Fact 120 - Tamil - 2000+ varusha mozhi!
+World Story 2951
+Oru chinna village la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
