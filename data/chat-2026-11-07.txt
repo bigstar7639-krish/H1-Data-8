@@ -622,3 +622,5 @@ Recipe 2868 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Talk 2869 - Singing pathi pesalama? Sollu!
 Recipe 2870 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Vocab 2871 - Peace = Amaithi
+Motivation 2872
+Paravalla! Rest edu - Thirumba try pannu!
