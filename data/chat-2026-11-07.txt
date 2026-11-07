@@ -272,3 +272,4 @@ Thirukkural 2956 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Quote 2957 - Daily try pannu - Jeyichiduva! - Aira
 Coding Q 2958 - React la component enna?
 Aira: React component - Chinna piece!
+Smart Q 2959 - Courage la eppadi jeyikkarathu?
