@@ -418,3 +418,4 @@ Smart Q 3038 - Sport la eppadi jeyikkarathu?
 Game 3039 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Emotion Q 3040 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva! 💪
+Talk 3041 - Science pathi pesalama? Sollu! 💬
