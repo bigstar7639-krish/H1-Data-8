@@ -842,3 +842,4 @@ Game 2992 - Dice - Ne Dice nu Sollu!
 Quote 2993 - Daily try pannu - Jeyichiduva! - Aira
 Coding Q 2994 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Q 2995 - Un life la Happy eppadi irukku?
