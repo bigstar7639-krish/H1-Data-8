@@ -136,3 +136,6 @@ A: Gavrilo Princip
 Auto Quiz - Mountain 🧠
 Q: What was Bitcoin&#039;s block size limit in 2010?
 A: 1 MB
+Auto Quiz - River 🧠
+Q: The teapot often seen in many 3D modeling applications is called what?
+A: Utah Teapot
