@@ -428,3 +428,4 @@ World Story 2771
 Oru chinna forest la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Game 2772 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 2773 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
+Health 2774 - Health Tip: 7 mani neram thoongunga!
