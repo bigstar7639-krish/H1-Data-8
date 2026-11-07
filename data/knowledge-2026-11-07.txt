@@ -706,3 +706,6 @@ A: Dan the Automater - Entertainment: Music
 Knowledge Quiz
 Q: Which of these Roman gods doesn't have a counterpart in Greek mythology?
 A: Janus - Mythology
+Knowledge Quiz
+Q: What programming language does the Source Engine use?
+A: C++  - Entertainment: Video Games
