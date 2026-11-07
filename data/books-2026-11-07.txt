@@ -45,3 +45,4 @@ kan - in.gazette.karnataka_eo.2020-08-06.102 - Karnataka ExtraOrdinary Gazette, 
 kor - chosun-ilbo-1930.03.13e - 朝鮮日報 1930.03.13e
 tel - prajasakti-newspaper-all-editions-09-07-2024 - Prajasakti Telugu Newspaper All Editions 09-07-2024
 kan - in.gazette.karnataka_eo.2022-03-14.2012021 - Karnataka ExtraOrdinary Gazette, 2022-03-14, Extra Ordinary, Part III
+kan - in.gazette.karnataka_eo.2020-08-06.174 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
