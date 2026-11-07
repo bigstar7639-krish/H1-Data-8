@@ -10,3 +10,4 @@ kan - in.gazette.karnataka_d.2021-01-29.ELNGPCR0000012021 - Karnataka Daily Gaze
 kan - in.gazette.karnataka_d.2022-03-22.DPAR90SDE2021 - Karnataka Daily Gazette, 2022-03-22, Daily, Part I
 chi - shibao-1919.07.18 - 時報 1919.07.18
 ara - write.ass - ‎⁨الرد على جهالات المتعصب لأوروبا في أصول التاريخ ومنهجه.⁩
+spa - S.O.No.8 - S. O. No. 8
