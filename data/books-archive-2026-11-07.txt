@@ -191,3 +191,4 @@ Pyramids - WCWdb_32014 - Giza pyramids.
 Taj Mahal - rsdebate.nic.in.219793 - Suggestion of UNESCO team to Taj Mahal (24-Jul-1992)
 Taj Mahal - tajmahalpassiong00pres - Taj Mahal
 Eiffel Tower - eiffeltower00ryan - The Eiffel Tower
+Eiffel Tower - eiffeltowerother00bart - The Eiffel Tower, and other mythologies
