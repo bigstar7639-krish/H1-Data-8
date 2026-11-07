@@ -712,3 +712,6 @@ A: C++  - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is the artist of the recent new album the Uncanny Valley?
 A: Perturbator - Entertainment: Music
+Knowledge Quiz
+Q: What is a dead mall?
+A: A mall with high vacancy rates or low consumer foot traffic - General Knowledge
