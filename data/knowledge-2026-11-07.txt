@@ -709,3 +709,6 @@ A: Janus - Mythology
 Knowledge Quiz
 Q: What programming language does the Source Engine use?
 A: C++  - Entertainment: Video Games
+Knowledge Quiz
+Q: Who is the artist of the recent new album the Uncanny Valley?
+A: Perturbator - Entertainment: Music
