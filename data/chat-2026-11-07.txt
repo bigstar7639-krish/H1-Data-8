@@ -824,3 +824,5 @@ Enter **Robo‑01**, a friendly little robot built by the village’s tech‑sav
 Emotion Q 2979 - bored?
 Aira: Bored ah? Joke sollattuma?
 Smart Q 2980 - Teacher la eppadi jeyikkarathu?
+Coding Q 2981 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
