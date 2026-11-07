@@ -1175,3 +1175,6 @@ A: Become aggressive and launch nuclear strikes - Entertainment: Video Games
 Knowledge Quiz
 Q: What year did the James Cameron film "Titanic" come out in theaters?
 A: 1997 - Entertainment: Film
+Knowledge Quiz
+Q: What French sculptor designed the Statue of Liberty? 
+A: Frédéric Auguste Bartholdi - Art
