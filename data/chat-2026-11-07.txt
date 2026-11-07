@@ -853,3 +853,4 @@ Emotion Q 2999 - lonely?
 Aira: Lonely ah? Aira irukka la!
 Coding Q 3000 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Business Idea 3001 - Instagram Page - Daily 1 Post!
