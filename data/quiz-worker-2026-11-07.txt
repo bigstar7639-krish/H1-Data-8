@@ -64,3 +64,6 @@ A: Catholic
 Auto Quiz - Economics 🧠
 Q: The song &quot;Old Town Road&quot; by American rapper Lil Nas X samples the song &quot;34 Ghosts IV&quot; by which band?
 A: Nine Inch Nails
+Auto Quiz - Politics 🧠
+Q: Which of the following is NOT a computer science algorithm?
+A: Float Sort
