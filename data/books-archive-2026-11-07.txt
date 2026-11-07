@@ -246,3 +246,4 @@ Ninja - isbn_9781468083354 - Jewish Ninja
 Ninja - isbn_9781548118198 - The Official Ninja Handbook
 China - bwb_S0-AKJ-020 - Cultural Relics Unearthed in China
 China - managinghumanres0000yuzh - Managing Human Resources in China: The View from Inside Multinationals
+Beijing - bwb_KU-404-589 - GALERIEURSMEILI Beijing-Lucerne 2009
