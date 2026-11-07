@@ -765,3 +765,5 @@ Emotion Q 2948 - bored?
 Aira: Bored ah? Joke sollattuma?
 Reading 2949 - Thirukkural - Valluvar!
 Thirukkural 2950 - Porumai - Periya Sakthi! - Thirukkural
+Joke 2951
+Teacher: Yen late? Student: School Ahead board!
