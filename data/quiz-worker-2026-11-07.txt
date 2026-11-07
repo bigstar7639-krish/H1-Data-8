@@ -127,3 +127,6 @@ A: The inability to make decisions
 Auto Quiz - Temple 🧠
 Q: Who painted &quot;The Starry Night&quot;?
 A: Vincent van Gogh
+Auto Quiz - Flower 🧠
+Q: What style of beer will typically have a higher than average hop content?
+A: India Pale Ale
