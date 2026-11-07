@@ -1035,3 +1035,6 @@ A: Clustertruck - Entertainment: Video Games
 Knowledge Quiz
 Q: In the 2015 RPG "Undertale", which character do you first encounter after falling down into the underground?
 A: Flowey - Entertainment: Video Games
+Knowledge Quiz
+Q: League of Legends, DOTA 2, Smite and Heroes of the Storm are all part of which game genre?
+A: Multiplayer Online Battle Arena (MOBA) - Entertainment: Video Games
