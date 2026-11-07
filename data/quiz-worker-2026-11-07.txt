@@ -52,3 +52,6 @@ A: 15
 Auto Quiz - Pyramids 🧠
 Q: In the game Warframe, what is the bipedal robot from the Corpus faction called?
 A: MOA
+Auto Quiz - Taj Mahal 🧠
+Q: In &quot;Kingdom Hearts&quot;, who abducts Jasmine in the Lamp Chamber?
+A: Riku
