@@ -1251,3 +1251,4 @@ Knowledge 3218 - Sun - Sun pathi sollu - Nalla question! Daily try pannu - Jeyic
 Fact 139 - Octopus ku 3 heart!
 Smart Q 3220 - Health la eppadi jeyikkarathu?
 Smart Q 3221 - Reading la eppadi jeyikkarathu?
+Vocab 3222 - Kindness = Anbu
