@@ -762,3 +762,6 @@ A: Flute - Entertainment: Music
 Knowledge Quiz
 Q: Which of the following was not one of "The Magnificent Seven"?
 A: Clint Eastwood - Entertainment: Film
+Knowledge Quiz
+Q: Who is the colossal titan in "Attack On Titan"?
+A: Bertolt Hoover - Entertainment: Japanese Anime & Manga
