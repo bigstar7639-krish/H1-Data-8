@@ -759,3 +759,6 @@ Knowledge 3027 - Python - Python loop: `for i in range(5): print(i)`
 Knowledge Quiz
 Q: A piccolo is a smaller version of what instrument?
 A: Flute - Entertainment: Music
+Knowledge Quiz
+Q: Which of the following was not one of "The Magnificent Seven"?
+A: Clint Eastwood - Entertainment: Film
