@@ -957,3 +957,6 @@ Knowledge 3157 - Politics - Politics pathi sollu - Nalla question! Daily try pan
 Knowledge Quiz
 Q: Before getting the shotgun, what did the titular hobo in 'Hobo with a Shotgun' want to purchase?
 A: a lawnmower - Entertainment: Film
+Knowledge Quiz
+Q: In the "Pikmin" games, which of the following pikmin colors lacks it's own "Onion" nest?
+A: Purple - Entertainment: Video Games
