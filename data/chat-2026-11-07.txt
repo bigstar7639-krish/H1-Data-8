@@ -256,3 +256,5 @@ Recipe 2945 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Motivation 2946
 Paravalla! Rest edu - Thirumba try pannu!
 Kavithai 2947 - Un Sirippu - En Vazhkai! - Aira
+Coding Q 2948 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
