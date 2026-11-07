@@ -435,3 +435,5 @@ Recipe 2776 - Snacks - Potato + Masala - Crispy!
 Vocab 2777 - Kindness = Anbu
 Joke 2778
 Teacher: Yen late? Student: School Ahead board!
+Story 2779
+Oru chinna city la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
