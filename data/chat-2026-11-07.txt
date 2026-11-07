@@ -204,3 +204,4 @@ Health 2913 - Health Tip: 7 mani neram thoongunga! 😴 💪
 Coding Q 2914 - React la component enna?
 Aira: React component - Chinna piece!
 Health 2915 - Health Tip: Daily 30 min walk ponga! 🚶 💪
+Thirukkural 2916 - Kattrathu - Kai Mann Alavu! - Thirukkural
