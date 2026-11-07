@@ -749,3 +749,6 @@ A: December 20, 1990 - Science: Computers
 Knowledge Quiz
 Q: Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?
 A: Jean-Claude Van Damme - Entertainment: Film
+Knowledge Quiz
+Q: Killing Floor started as a mod for which Unreal Engine 2 game?
+A: Unreal Tournament 2004 - Entertainment: Video Games
