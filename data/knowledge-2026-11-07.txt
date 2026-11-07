@@ -302,3 +302,6 @@ A: Gray  - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: In what year was McDonald&#039;s founded?
 A: 1955 - General Knowledge
+Knowledge Quiz 🧠
+Q: Which of these did mathematician Leonhard Euler NOT develop?
+A: An improvement to the Fast Fourier Transform - Science: Mathematics
