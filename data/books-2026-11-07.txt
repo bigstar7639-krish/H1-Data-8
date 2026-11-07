@@ -16,3 +16,4 @@ hin - in.gov.bih.gazette.2013-05-22.395 - Bihar Gazette, 2013-05-22, Extra Ordin
 kan - in.gazette.karnataka_eo.2022-03-14.2012021 - Karnataka ExtraOrdinary Gazette, 2022-03-14, Extra Ordinary, Part III
 kan - in.gazette.karnataka_eo.2020-08-06.174 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
 kan - in.gazette.karnataka_eo.2020-06-24.UDD05MLR2018 - Karnataka ExtraOrdinary Gazette, 2020-06-24, Extra Ordinary, Part III
+kor - chosun-ilbo-1930.03.13e - 朝鮮日報 1930.03.13e
