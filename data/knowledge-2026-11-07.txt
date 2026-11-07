@@ -877,3 +877,6 @@ A: A Clash of Kings - Entertainment: Books
 Knowledge Quiz
 Q: Which of these elements on the Periodic Table is a Noble Gas?
 A: Neon - Science & Nature
+Knowledge Quiz
+Q: In "Overwatch", Coalescence is the name for the ultimate of which hero?
+A: Moira - Entertainment: Video Games
