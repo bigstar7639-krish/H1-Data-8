@@ -19,3 +19,6 @@ A: Skeleton King
 Auto Quiz - Village 🧠
 Q: Who is Winnie the Pooh&#039;s gloomy donkey friend?
 A: Eeyore
+Auto Quiz - City 🧠
+Q: Which of the following was not developed by Bethesda?
+A: Fallout: New Vegas
