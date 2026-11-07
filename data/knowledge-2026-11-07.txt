@@ -308,3 +308,6 @@ A: An improvement to the Fast Fourier Transform - Science: Mathematics
 Knowledge Quiz 🧠
 Q: Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?
 A: Monopoly - Entertainment: Board Games
+Knowledge Quiz 🧠
+Q: In &quot;One Piece&quot;, who is the girl who overcame her enslaved past and became an agent of an army to fight the corrupt government?
+A: Koala - Entertainment: Japanese Anime &amp; Manga
