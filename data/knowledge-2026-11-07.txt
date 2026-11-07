@@ -999,3 +999,6 @@ A: INGSOC - Entertainment: Books
 Knowledge Quiz
 Q: King Henry VIII was the second monarch of which European royal house?
 A: Tudor - History
+Knowledge Quiz
+Q: At the end of the 2001 film "Rat Race", whose concert do the contestants crash?
+A: Smash Mouth - Entertainment: Film
