@@ -605,3 +605,6 @@ A: 350,000 - History
 Knowledge Quiz
 Q: Which of the following liquids is least viscous? Assume temperature is 25°C.
 A: Acetone - Science & Nature
+Knowledge Quiz
+Q: What is the cartoon character, Andy Capp, known as in Germany?
+A: Willi Wakker - Entertainment: Cartoon & Animations
