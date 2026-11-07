@@ -709,3 +709,4 @@ Quote 2915 - Daily try pannu - Jeyichiduva! - Aira
 Recipe 2916 - Snacks - Potato + Masala - Crispy!
 Story 2917
 Oru chinna tokyo la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Talk 2918 - Travel pathi pesalama? Sollu!
