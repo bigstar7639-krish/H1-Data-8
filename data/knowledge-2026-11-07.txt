@@ -464,3 +464,24 @@ Knowledge 2838 - Python - Python loop: `for i in range(5): print(i)`
 Knowledge Quiz
 Q: What is the name of Ruby Rose's weapon from RWBY?
 A: Crescent Rose - Entertainment: Cartoon & Animations
+Knowledge 2842 - Robot - Hey buddy! 🙌  
+**Robot**‑ஐ பற்றி சொல்லப் போகிறேன் – ஒரு சிறிய “Tanglish” mix‑ஆக. 😄  
+
+---
+
+## 1️⃣ ரோபோட் என்ன? (What is a robot?)
+
+- **Definition:** இயந்திரம் (machine) + சென்சார்கள் (sensors) + AI/மென்பொருள் (software) கொண்டு, **autonomous** அல்லது **semi‑autonomous** tasks‑களை செய்ய design‑ஆகும் device.  
+- **Key components:**  
+  - **Actuators** (motors, servos) – movement‑க்கு.  
+  - **Sensors** (camera, lidar, touch, temperature) – சுற்றுப்புறத்தை “sense” பண்ண.  
+  - **Controller/CPU** – brain – usually a microcontroller (Arduino, Raspberry Pi, STM32) or a full‑blown PC.  
+  - **Power source** – battery, solar, wired.  
+
+---
+
+## 2️⃣ ரோபோட் வரலாறு – Quick Timeline
+
+| Year | Milestone | Details (Tanglish) |
+|------|-----------|-------------------|
+| 1954 | **George Devol** created the f
