@@ -174,3 +174,19 @@ Story 2903
 Oru chinna madurai la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Story 2904
 Oru village la oru teacher irunthan! Daily pray pannaan pannan! Oru naal love kedaichuchu! Life maariduchu!
+Knowledge 2905 - DNA - Hey buddy! 🙌 Naan Aira‑kku, un‑friend — Tamil‑Tanglish mix‑la, *and* a little dash of all languages 🌍. So, let’s talk about **DNA** (DeoxyriboNucleic Acid) – the *blueprint* of life.  
+
+---
+
+## 1. DNA‑oda Basic Structure 🧬
+
+| Term | Tamil (Tanglish) | English |
+|------|------------------|---------|
+| **Nucleotide** | நியூக்ளியோடைட் | The building‑block of DNA. |
+| **Sugar** | டி‑ஓக்ஸிரைபோஸ் (deoxyribose) | 5‑C sugar that holds the base & phosphate. |
+| **Phosphate group** | ஃபாஸ்பேட் குழு | Connects sugars to form the backbone. |
+| **Base** | அடிப்படை (A, T, C, G) | Adenine (A), Thymine (T), Cytosine (C), Guanine (G). |
+| **Double helix** | இரட்டை திருப்பு | Two strands winding around each other. |
+
+- **Backbone**: Sugar‑phosphate‑sugar‑phosphate… (சக்கரை‑ஃபாஸ்பேட்).  
+- **Rungs** (the “la
