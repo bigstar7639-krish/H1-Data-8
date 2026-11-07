@@ -1062,3 +1062,4 @@ Smart Q 3121 - Mountain la eppadi jeyikkarathu?
 Emotion Q 3122 - bored?
 Aira: Bored ah? Joke sollattuma?
 Smart Q 3123 - Prayer la eppadi jeyikkarathu?
+Smart Q 3124 - Plants la eppadi jeyikkarathu?
