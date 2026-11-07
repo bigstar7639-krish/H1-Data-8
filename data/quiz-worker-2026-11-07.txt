@@ -73,3 +73,6 @@ A: Liam Neeson
 Auto Quiz - Education 🧠
 Q: Who is the primary lyricist for Canadian progressive rock band Rush?
 A: Neil Peart
+Auto Quiz - Happiness 🧠
+Q: If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.
+A: Binary
