@@ -305,3 +305,6 @@ A: 1955 - General Knowledge
 Knowledge Quiz 🧠
 Q: Which of these did mathematician Leonhard Euler NOT develop?
 A: An improvement to the Fast Fourier Transform - Science: Mathematics
+Knowledge Quiz 🧠
+Q: Which of these games includes the phrase &quot;Do not pass Go, do not collect $200&quot;?
+A: Monopoly - Entertainment: Board Games
