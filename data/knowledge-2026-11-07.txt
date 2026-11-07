@@ -778,3 +778,6 @@ A: 1971 - Entertainment: Film
 Knowledge Quiz
 Q: Who was the first American Vampire (Scott Snyder's American Vampire)?
 A: Skinner Sweet - Entertainment: Comics
+Knowledge Quiz
+Q: In Disney's "Toontown Online", which of these species wasn't available as a Toon?
+A: Cow - Entertainment: Video Games
