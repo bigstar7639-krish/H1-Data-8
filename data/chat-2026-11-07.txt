@@ -264,3 +264,4 @@ World Story 2951
 Oru chinna village la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Coding Q 2952 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Thirukkural 2953 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
