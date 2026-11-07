@@ -13,3 +13,4 @@ ara - write.ass - ‎⁨الرد على جهالات المتعصب لأورو
 spa - S.O.No.8 - S. O. No. 8
 kor - chosun-ilbo-1930.03.13e - 朝鮮日報 1930.03.13e
 hin - in.gov.bih.gazette.2013-05-22.395 - Bihar Gazette, 2013-05-22, Extra Ordinary
+kan - in.gazette.karnataka_eo.2022-03-14.2012021 - Karnataka ExtraOrdinary Gazette, 2022-03-14, Extra Ordinary, Part III
