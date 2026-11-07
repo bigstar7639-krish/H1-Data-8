@@ -756,3 +756,6 @@ Knowledge Quiz
 Q: Who is the lead singer of Bastille?
 A: Dan Smith - Entertainment: Music
 Knowledge 3027 - Python - Python loop: `for i in range(5): print(i)`
+Knowledge Quiz
+Q: A piccolo is a smaller version of what instrument?
+A: Flute - Entertainment: Music
