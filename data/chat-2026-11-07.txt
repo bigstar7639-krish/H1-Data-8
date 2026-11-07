@@ -630,3 +630,5 @@ Emotion Q 2875 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
 Emotion Q 2876 - sad?
 Aira: Paravalla! Aira irukka - Pesu!
+Motivation 2877
+Paravalla! Rest edu - Thirumba try pannu!
