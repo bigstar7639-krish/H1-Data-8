@@ -659,3 +659,6 @@ A: Bull - Mythology
 Knowledge Quiz
 Q: Hockey player Wayne Gretzky was born in what Canadian province?
 A: Ontario - Sports
+Knowledge Quiz
+Q: What national team won the first UEFA Nations League?
+A: Portugal - Sports
