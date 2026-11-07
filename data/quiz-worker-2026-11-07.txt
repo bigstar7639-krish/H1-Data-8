@@ -154,3 +154,6 @@ A: Battle of Verdun
 Auto Quiz - Bird 🧠
 Q: How many players are there in an association football/soccer team?
 A: 11
+Auto Quiz - Animal 🧠
+Q: Bj&ouml;rk&#039;s &quot;Unison&quot; contains a sample of which Oval song?
+A: Aero Deck
