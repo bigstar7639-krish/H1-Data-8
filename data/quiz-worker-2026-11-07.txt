@@ -70,3 +70,6 @@ A: Float Sort
 Auto Quiz - Law 🧠
 Q: Which actor provided the voice for the main character&#039;s father in Fallout 3?
 A: Liam Neeson
+Auto Quiz - Education 🧠
+Q: Who is the primary lyricist for Canadian progressive rock band Rush?
+A: Neil Peart
