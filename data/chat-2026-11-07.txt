@@ -458,3 +458,5 @@ Aira AI: Un life la Mumbai eppadi irukku? - Nalla question! Daily try pannu - Je
 Motivation 2782
 Paravalla! Rest edu - Thirumba try pannu!
 Q 2783 - Un life la Bird eppadi irukku?
+Emotion Q 2784 - happy?
+Aira: Super! Happy ah irukka!
