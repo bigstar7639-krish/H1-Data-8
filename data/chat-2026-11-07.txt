@@ -1370,3 +1370,4 @@ Smart Q 3288 - Moon la eppadi jeyikkarathu?
 Talk 3289 - Cricket pathi pesalama? Sollu!
 Health 3290 - Yoga Tip: Daily 5 min deep breath edu!
 Smart Q 3291 - Sport la eppadi jeyikkarathu?
+Pazhamozhi 3292 - Aalai Paathu - Aadi Paaru!
