@@ -6,3 +6,7 @@ Teacher - bwb_C0-BPX-797 - teacher, teacher, I done it! I done it! I done done i
 Teacher - bwb_S0-CBG-611 - The Discrenible Teacher
 Student - isbn_9781572592469 - Student Solutions Manual to Accompany College Algebra
 Student - bwb_S0-DNM-028 - High school student book
+Business - isbn_9780030978555 - Business Research Methods
+Business - phm_test_business_ms4d95ul - PHM Test Business
+Money - moneybankingtoda0000euge_s5v4 - Money and banking today
+Money - Living_A_Life_Of_Luxury_On_Borrowed_Money_ - Living_A_Life_Of_Luxury_On_Borrowed_Money_
