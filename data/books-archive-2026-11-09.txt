@@ -96,3 +96,5 @@ Desert - bwb_KU-559-291 - The Gobi Desert
 Desert - harvestindesert0000maur_l3p0 - HARVEST in the DESERT
 Snow - bwb_W9-CRW-103 - On snow and rock
 Snow - twitch-chat-498145510 - Twitch chat logs from Snow_lul
+Fire - computerbasedtra0000hila - Computer-based Training of Cannon Fire Direction Specialists
+Fire - bwb_C0-CCT-791 - Men of Prophetic Fire
