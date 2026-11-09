@@ -170,3 +170,5 @@ Writing - bwb_S0-CWF-509 - A HISTORY OF HISTORICAL WRITING
 Writing - bwb_S0-BQI-555_1 - A history of historical writing
 Poetry - bwb_T4-ALI-190 - Rose and Poetry for Appreciation
 Poetry - bwb_C0-BNY-939 - British Poetry and Prose
+Singing - bwb_Y0-AGF-288 - Singing Teen-Agers Songs for the Youth
+Singing - pitched-gospel-singing-soul-sample-sample-focus - Pitched Gospel Singing Soul Sample Sample Focus
