@@ -30,3 +30,4 @@ Power - Openverse - https://www.flickr.com/photos/61533954@N00/14598027803
 Power - Unsplash - https://source.unsplash.com/800x600/?power%20energy
 Power - Openverse - https://www.flickr.com/photos/11599314@N00/511664569
 Power - Openverse - https://www.flickr.com/photos/25182210@N07/3160642287
+Power - Wikimedia - https://commons.wikimedia.org/w/index.php?curid=79922379
