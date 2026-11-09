@@ -204,3 +204,7 @@ Temple - isbn_9782811219772 - l'oracle du temple de la jungle
 Temple - dlibra.kul.pl.44438__Kubis--Adam---Zechar_0000 - Zechariah 6:12-13 as the Referent of γραфήin John 2:22 and 20:9. A Contribution to Johannine Temple-Christology.
 Flower - newflowerarrange0000doro - The New Flower Arrangement for Everyone
 Flower - bwb_KV-321-287 - Flower Arranging
+Indian Girl - hoistahindiangir0000smba - Hoistah an indian girl
+Indian Girl - daywithpolihopii00jame - A day with Poli, a Hopi Indian girl
+Kolkata - mmse_bharatiya-sangeet-ka-itihas-dr.-thakur-jayadeva-singh-kolkata-sangeet-research-academy - Bharatiya Sangeet Ka Itihas Dr. Thakur Jayadeva Singh Kolkata Sangeet Research Academy
+Kolkata - eparlib.nic.in.431860 - FLIGHT FROM KOLKATA TO BEIJING VIA BANGKOK (12-Aug-2002)
