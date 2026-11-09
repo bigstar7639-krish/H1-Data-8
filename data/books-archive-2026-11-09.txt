@@ -154,3 +154,5 @@ Phone - isometric-gradient-3d-mobile-phone-background - isometric-gradient-3d-mo
 Phone - PhoneDoctor_20170313 - Phone Doctor
 Book - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
 Book - bwb_Y0-DCL-531 - The New York Times COOK BOOK
+Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
+Computer - developmentofcom0000john - Development Of Computer Supplements To Calculus
