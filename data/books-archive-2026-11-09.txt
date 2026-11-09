@@ -118,3 +118,7 @@ Fruit - bwb_T3-BSD-639 - so good with fruit
 Fruit - bwb_KU-355-300 - The Fruit garden displayed
 Vegetable - bwb_Y0-BWA-507 - america's best vegetable recipes, 666 ways to make vegetables irresistible
 Vegetable - downtoearthveget0000lacy - Down to Earth Vegetable Gardening Down South
+Summer - bwb_Y0-ABT-313 - the robin's summer
+Summer - lincolncoinclubn06n4linc - Lincoln Coin Club Newsletter: Summer 1998
+Winter - collegetimesw1953uppe - College Times 1953 Winter
+Winter - MiniOPFlax.ChernarusWinter - Mini OP Flax. Chernarus Winter
