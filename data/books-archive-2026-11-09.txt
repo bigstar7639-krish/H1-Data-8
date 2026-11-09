@@ -172,3 +172,5 @@ Poetry - bwb_T4-ALI-190 - Rose and Poetry for Appreciation
 Poetry - bwb_C0-BNY-939 - British Poetry and Prose
 Singing - bwb_Y0-AGF-288 - Singing Teen-Agers Songs for the Youth
 Singing - pitched-gospel-singing-soul-sample-sample-focus - Pitched Gospel Singing Soul Sample Sample Focus
+Dancing - bwb_KV-542-049 - The dancing dodo
+Dancing - bwb_W9-CWL-184 - the dancing floor
