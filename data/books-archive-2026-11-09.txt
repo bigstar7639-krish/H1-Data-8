@@ -156,3 +156,7 @@ Book - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
 Book - bwb_Y0-DCL-531 - The New York Times COOK BOOK
 Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
 Computer - developmentofcom0000john - Development Of Computer Supplements To Calculus
+Kavithai - cbfc-ecinepramaan-100030291800001735 - KADHAL KAVITHAI
+Kavithai - kankal-sollum-kavithai - Kankal Sollum Kavithai
+Thirukkural - saurashtra-thirukkural - Saurashtra Thirukkural
+Thirukkural - TNLA-DB-5-1974-10-46-4-QH22_1974-01-22 - Thirukkural as a National Book
