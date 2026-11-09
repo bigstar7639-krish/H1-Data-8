@@ -230,3 +230,5 @@ Coffee - bwb_KU-577-151 - pets of coffee
 Coffee - gov.uscourts.nyed.348607 - Duran v. Bridge Coffee Shop Inc.
 Tea - bwb_T4-AKD-432 - tea technology
 Tea - tea_to_parti - tea_to_parti
+Cake - WhatMakesAGoodCakeDecorator - What Makes A Good Cake Decorator
+Cake - isbn_9781323307014 - Let Them Eat Cake, Why Leaders Fail
