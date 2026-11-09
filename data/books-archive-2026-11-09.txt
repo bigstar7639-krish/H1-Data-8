@@ -240,3 +240,7 @@ Chocolate - practicalcooking0000unse - Practical cooking : chocolate
 Chocolate - tobacco_hzvv0004 - INTRODUCING AERO. THE FIRST WHIPPED CHOCOLATE BAR.
 Fruit - diseasesoffruitt0000vari - diseases of fruit trees
 Fruit - diseasesinsectsm0000gcch - Diseases Insects and Mites of Stone Fruit
+Vegetable - isbn_9780754826439 - Organic vegetable and fruit gardener : a practical directory of garden produce with over 250 photographs
+Vegetable - conciseguidetove0000cice - A concise Guide to Vegetable Gardening
+Summer - bwb_S0-BOD-626 - The Summer of Katya
+Summer - bwb_KV-620-365 - Summer Storm
