@@ -142,3 +142,8 @@ Lion - bwb_S0-EKQ-267_13 - Funk & Wagnalls Standard Reference Encyclopedia Henry
 Lion - LeGrandMasqueJuifOuLneDansLaPeauDuLion193649p - Le Grand Masque Juif Ou L'âne Dans La Peau Du Lion 1936 ( 49p)
 Horse - myhorsesays0000unse_t0k6 - my horse says
 Horse - bwb_S0-BIX-602 - The QUARTER HORSE BREEDER
+Bike - bwb_S0-BCA-106 - Hit the Bike Trail
+Bike - cbfc-ecinepramaan-100010292400003826 - IKEA NLP BIKE BLR
+Car - bwb_S0-DQS-031 - For children cannot wait car les enfants ne peuvent attendre denn kinder konnen nicht warten
+Car - fastcar0000murp - Fast car
+Train - gettingherefroms0000pete - Getting Here: From a Seat on a Train to a Seat on the Bench
