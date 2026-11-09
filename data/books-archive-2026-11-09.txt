@@ -94,3 +94,5 @@ Forest - bwb_S0-CLS-359 - Forest Soil Science
 Forest - bwb_KV-423-367 - The drunken forest
 Desert - bwb_KU-559-291 - The Gobi Desert
 Desert - harvestindesert0000maur_l3p0 - HARVEST in the DESERT
+Snow - bwb_W9-CRW-103 - On snow and rock
+Snow - twitch-chat-498145510 - Twitch chat logs from Snow_lul
