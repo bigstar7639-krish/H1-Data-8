@@ -236,3 +236,7 @@ Pizza - gov.uscourts.nysd.590542 - Pizza On 23rd Corp v. Liberty Mutual Insuranc
 Pizza - gov.uscourts.nysd.553257 - Ramirez v. 1701 Pizza Ltd.
 Burger - dlibra.bibliotekaelblaska.pl.79.2950709 - Montag, den 15. d. Mts., Nachmittags 4 Uhr im großen Saale der Bürger-Ressource: Vortrag - Our Digital Library
 Burger - jstor-1103598 - In the Circuit Court of Prince Edward County, Virginia. State Female Normal School v. Mary E. Burger and Others
+Chocolate - practicalcooking0000unse - Practical cooking : chocolate
+Chocolate - tobacco_hzvv0004 - INTRODUCING AERO. THE FIRST WHIPPED CHOCOLATE BAR.
+Fruit - diseasesoffruitt0000vari - diseases of fruit trees
+Fruit - diseasesinsectsm0000gcch - Diseases Insects and Mites of Stone Fruit
