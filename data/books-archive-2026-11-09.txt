@@ -32,3 +32,7 @@ Sushi - twitch-chat-102584165 - Twitch chat logs from BlueEyes_und_Sushi
 Sushi - gov.uscourts.cacd.1030868 - Sushi Supply Inc., a California Corporation v. One Stop Global Supply Inc., a Kansas Corporation
 Kyoto - environmentalsys0002unse - Environmental systems planning, design, and control : proceedings of the IFAC symposium, Kyoto, Japan, 1-5 August 1977
 Kyoto - historicalkyotow0000plut - Historical Kyoto : with illustrations and guide maps
+Osaka - gov.uscourts.ohsb.795426 - Osaka K Tetteh-Odonkor
+Osaka - osaka-daigaku-keizaigaku_1955-06_4_1 - Osaka Economic Papers 1955-06: Vol 4 Iss 1
+Japanese Temple - japanese-temple-architecture-and-joinery-v-2 - Japanese Temple Architecture & Joinery V2
+Japanese Temple - ZEN_Temple_designguide - Old Japanese Temple Design Rules
