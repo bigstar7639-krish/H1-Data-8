@@ -167,3 +167,6 @@ Joke - jokeisonyou0000nish - The joke is on you
 Reading - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition
 Reading - lefranaisetsapa00talbgoog - Le Français et sa patrie: for elementary reading in schools and colleges
 Writing - bwb_S0-CWF-509 - A HISTORY OF HISTORICAL WRITING
+Writing - bwb_S0-BQI-555_1 - A history of historical writing
+Poetry - bwb_T4-ALI-190 - Rose and Poetry for Appreciation
+Poetry - bwb_C0-BNY-939 - British Poetry and Prose
