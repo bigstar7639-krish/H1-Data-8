@@ -180,3 +180,5 @@ Football - com.davincistudio.footballfreekick - Football Free Kick
 Football - fantasyfootballl0000lohh - Fantasy football league
 Science - bwb_S0-BQC-719 - The Popular Science
 Science - mr2-science_ar2eb2017www.azhry.com - mr2-science_ar2eb2017www.azhry.com
+History - historyofmethodi0002wade - History of Methodist Missions; Early American Methodism
+History - modernchinabrief0000davi_t0g2 - MOdern china a brief history
