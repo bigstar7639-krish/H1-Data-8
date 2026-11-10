@@ -64,3 +64,7 @@ Eiffel Tower - 106920457 - M. Santos-Dumont rounds Eiffel Tower
 Eiffel Tower - lego-building-instructions-10307 - 10307 - Eiffel tower - Building Instructions
 Psychology - isbn_070345708 - Social psychology
 Psychology - readingsinhistor0000wayn_j2w7 - Readings in the History of Psychology
+Philosophy - historyofphiloso0000seym_z6e0 - a history of philosophy
+Philosophy - bwb_T3-BPE-768_20 - Further Studies in Philosophy
+Economics - moderneconomics0000arth - modern economics
+Economics - isbn_9780536824394 - Economics (Principles and Tools Custom Edition)
