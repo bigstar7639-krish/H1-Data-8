@@ -112,3 +112,7 @@ Cat - trackofcat0000walt - the track of the cat
 Cat - ghostwrittenbypi0000dona - Ghost written by Picard the Cat
 Dog - givedogbone0000okan_o9l6 - Give the dog a bone
 Dog - wisedog0000unse_o7c9 - wise dog
+Food - bridgesfoodbever0000marj_c5e4 - Bridges Food And Beverage Analysis
+Food - bwb_S0-DTM-609 - Food Editor's Hometown Favorites Cookbok American Regional and LOcal Specialties
+Cricket - bwb_KV-028-408 - It Isn't Cricket
+Cricket - bwb_S0-EBY-685 - A Christmas Carol , The Cricket on the Hearth
