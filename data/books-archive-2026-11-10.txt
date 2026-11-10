@@ -190,3 +190,7 @@ Marriage - fromfriendshipto0000roya - From friendship to marriage
 Marriage - secretmarriage0000unse_y2y6 - Secret Marriage
 Family - family195319600000alex - Family 1953 - 1960
 Family - bwb_P9-BJO-264 - The Family Of Tomorrow The Cultural Crisis And The Way Out
+Friendship - bwb_C0-BNV-551 - The Friendship Book of Francis Gay 1985
+Friendship - bwb_S0-BQD-714 - Arnold Bennett and H.G. Wells - A Record of Personal and a Literary Friendship
+Study - bppr-3-1129 - Study design
+Study - thirtyeighthyear0000guym_m4v0 - The Thirty-Eighth Yearbook of the National Society for the Study of Education
