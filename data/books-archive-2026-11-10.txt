@@ -84,3 +84,5 @@ Book - bwb_T3-BRL-524 - A Study of the Book of Acts
 Book - bwb_S0-BWV-057 - Fish and Game Cook Book
 Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
 Kavithai - tdl.tdl_071788-nuul-tinnn-kvitai-dina-kavithai-paakm-1 - நூல் - தின கவிதை Dina Kavithai - பாகம் 1
+Thirukkural - thirukkuraltamilprojectmadurai_202003_991_c - Thirukkural ( Tamil) ( Project Madurai)
+Thirukkural - thirukkural-express-first-volume - Thirukkural Express First Volume
