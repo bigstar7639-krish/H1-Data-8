@@ -74,3 +74,9 @@ Car - fastcar0000murp - Fast car
 Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
 Train - letrainsarreteka0000andr - Le Train S'arrete a Ka
 Train - gettingherefroms0000pete - Getting Here: From a Seat on a Train to a Seat on the Bench
+Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
+Flight - bwb_W9-BGH-193 - Training to fly military flight training 1907-1945
+Phone - isometric-gradient-3d-mobile-phone-background - isometric-gradient-3d-mobile-phone-background
+Phone - avast-bought-your-phone-on-e-bay-recovered-what-you-thought-you-wiped - Avast Bought Your Phone On E Bay & Recovered What You Thought You 'wiped'
+Computer - computerbasedtra0000hila - Computer-based Training of Cannon Fire Direction Specialists
+Computer - computerdatabase0000lawr - A Computer Data Base System for Indexing Research Papers
