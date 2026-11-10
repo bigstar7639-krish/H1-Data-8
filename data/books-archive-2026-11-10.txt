@@ -252,3 +252,5 @@ Eiffel Tower - catsofeiffeltowe0000rose - The cats of the Eiffel Tower.
 Eiffel Tower - lego-building-instructions-10307 - 10307 - Eiffel tower - Building Instructions
 Psychology - isbn_9780558105211 - Organizational & Industrial Psychology, Custom Edition
 Psychology - isbn_0536662908 - The 21st Century: A Psychology of Communication Perspective
+Philosophy - historyofphiloso0000seym_z6e0 - a history of philosophy
+Philosophy - bwb_T3-BPE-768_20 - Further Studies in Philosophy
