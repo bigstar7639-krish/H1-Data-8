@@ -152,3 +152,7 @@ Baby - keralalegislativeassembly.proceedings.485952 - Incident about Death of Mo
 Baby - expectingrancher0000gold - Expecting the rancher's baby
 Teacher - bwb_C0-BPX-797 - teacher, teacher, I done it! I done it! I done done it!
 Teacher - bwb_Y0-ECX-828 - The 1975 Metro Toronto Teacher-Board Negotiations and Strike
+Student - isbn_9781572592469 - Student Solutions Manual to Accompany College Algebra
+Student - stickyassessment0000gree - Sticky assessment : classroom strategies to amplify student learning
+Business - isbn_9780030978555 - Business Research Methods
+Business - phm_test_business_ms4d95ul - PHM Test Business
