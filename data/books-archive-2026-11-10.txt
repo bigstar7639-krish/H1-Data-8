@@ -254,3 +254,7 @@ Psychology - isbn_9780558105211 - Organizational & Industrial Psychology, Custom
 Psychology - isbn_0536662908 - The 21st Century: A Psychology of Communication Perspective
 Philosophy - historyofphiloso0000seym_z6e0 - a history of philosophy
 Philosophy - bwb_T3-BPE-768_20 - Further Studies in Philosophy
+Economics - moderneconomics0000arth - modern economics
+Economics - isbn_9780536824394 - Economics (Principles and Tools Custom Edition)
+Politics - politicscommunic0000unse_k3l7 - Politics and Communication
+Politics - genderamericanpo02edunse - Gender and American politics : women, men, and the political process
