@@ -288,3 +288,8 @@ Q+A Katha - Story 🧠
 Question: Which NBA player won Most Valuable Player for the 1999-2000 season?
 
 Answer: Shaquille O'Neal - Sports. Itha kelvi Story pathi - Answer Shaquille O'Neal. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Story pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Story la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Story oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Health 🧠
+
+Question: What is the name of the default theme that is installed with Windows XP?
+
+Answer: Luna - Science: Computers. Itha kelvi Health pathi - Answer Luna. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Health pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Health la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Health oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
