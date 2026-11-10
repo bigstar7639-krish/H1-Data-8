@@ -176,3 +176,7 @@ Game - Game17Lite_201707 - Game 17 Lite
 Game - index_20250813 - WAR game download
 Sport - ENGLISHQuestions_20170926 - ENGLISH Questions sport
 Sport - LGSmartSport - LG Smart Sport
+Football - com.davincistudio.footballfreekick - Football Free Kick
+Football - fantasyfootballl0000lohh - Fantasy football league
+Science - bwb_S0-BQC-719 - The Popular Science
+Science - mr2-science_ar2eb2017www.azhry.com - mr2-science_ar2eb2017www.azhry.com
