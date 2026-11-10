@@ -270,3 +270,7 @@ Book - isbn_9781534672925 - The Truth Healer : Book 1: The Rosie Parker Mystery
 Book - bwb_Y0-DCL-531 - The New York Times COOK BOOK
 Kavithai - tdl.tdl_071788-nuul-tinnn-kvitai-dina-kavithai-paakm-1 - நூல் - தின கவிதை Dina Kavithai - பாகம் 1
 Kavithai - cbfc-ecinepramaan-100030291800001735 - KADHAL KAVITHAI
+Thirukkural - TNLA-DB-5-1974-10-46-4-QH22_1974-01-22 - Thirukkural as a National Book
+Thirukkural - ValluvarinThirukkuralThelivurai - Valluvarin Thirukkural Thelivurai
+Pazhamozhi - in.ernet.dli.2015.384847 - Pazhamozhi Botham
+Pazhamozhi - 14PazhamozhiThirumanam1917 - 14 Pazhamozhi Thirumanam 1917
